@@ -1,0 +1,4 @@
+interface:
+  display_name: Business Plan Skill
+  short_description: Create business plans, pitch decks, and incubator applications (创建商业计划书、BP、路演材料、孵化器申请).
+  default_prompt: Use the business plan skill to draft or update startup application materials.

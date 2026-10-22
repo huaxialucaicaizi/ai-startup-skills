@@ -1,0 +1,4 @@
+interface:
+  display_name: AI Pricing & Closing
+  short_description: 定价与成交：成本法算底价、套餐设计、报价单、私域成交与异议处理、明码标价检查 (Pricing, packages, quotes and closing for AI offers).
+  default_prompt: Use the AI pricing and closing skill to price my AI product or service, design packages and plan how to close deals.

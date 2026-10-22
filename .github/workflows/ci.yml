@@ -1,0 +1,35 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    - name: Install dependencies
+      run: pip install pyyaml
+    - name: Validate router and sub-skill SKILL.md frontmatter
+      run: python3 scripts/validate.py
+    - name: Check markdown links
+      uses: lycheeverse/lychee-action@v1
+      with:
+        args: >-
+          --verbose
+          --no-progress
+          --max-retries 3
+          --retry-wait-time 2
+          --timeout 20
+          --accept 200,204,206,429
+          --exclude-mail
+          '**/*.md'
+        fail: true
+      env:
+        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
