@@ -1,0 +1,4 @@
+interface:
+  display_name: OPC Growth Playbook
+  short_description: 一人公司增长获客：小红书/抖音/视频号冷启动漏斗、实验池、内容日历与口播脚本 (Cold-start growth on Chinese social platforms).
+  default_prompt: Use the OPC growth playbook to build my cold-start plan on Xiaohongshu, Douyin or WeChat Channels.

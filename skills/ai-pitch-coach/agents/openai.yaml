@@ -1,0 +1,4 @@
+interface:
+  display_name: Roadshow Pitch Coach
+  short_description: 园区路演教练：政府园区、OPC 社区、创业大赛 3/5 分钟逐字稿与评委问答 (Pitch scripts and judge Q&A for China parks and competitions).
+  default_prompt: Use the roadshow pitch coach to prepare my 3- or 5-minute pitch and judge Q&A for a park, OPC community or competition.

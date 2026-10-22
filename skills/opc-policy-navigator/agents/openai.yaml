@@ -1,0 +1,4 @@
+interface:
+  display_name: OPC Policy Navigator
+  short_description: 一人公司政策导航：国家级 + 北上广深政策匹配、材料清单与申报文案框架 (China OPC policy matching with official sources).
+  default_prompt: Use the OPC policy navigator to find policies I can apply for based on my city, industry and stage.

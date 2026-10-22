@@ -1,0 +1,4 @@
+interface:
+  display_name: OPC Company Registration CN
+  short_description: 一人公司注册与合规：个体户/个人独资/一人有限公司对比、注册清单、年报等合规日历，只引官方原文 (China entity choice and compliance, not legal advice).
+  default_prompt: Use the OPC company registration skill to compare entity types, prepare my registration checklist and build a compliance calendar.

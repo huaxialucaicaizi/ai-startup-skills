@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 创业 Skill 包"
+  short_description: "7-step AI startup toolkit: validate, BP, policy, pitch, growth, pricing, registration"
+  default_prompt: "用 ai-startup-skills 帮我看看我现在在创业的哪一步、下一步该做什么：___（在做什么产品、已经做到哪一步）"

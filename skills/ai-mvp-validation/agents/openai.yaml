@@ -1,0 +1,4 @@
+interface:
+  display_name: AI MVP Validation
+  short_description: AI 产品 MVP 验证：桌面调研、用户访谈、Meta 广告测试与继续/调整/放弃结论 (Validate AI product ideas with research, interviews and Meta ad tests).
+  default_prompt: Use the AI MVP validation skill to validate my AI product idea with desk research, user interviews and a Meta ad test plan.
