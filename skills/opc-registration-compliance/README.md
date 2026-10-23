@@ -44,7 +44,7 @@ Sole proprietorship, individual business or one-shareholder company? How to regi
 
 一个帮中国大陆一人创业者**选主体、办注册、守合规**的 Agent Skill：按责任承担、组织机构、出资对比个体工商户、个人独资企业和一人有限公司（每条附法律条款出处），生成登记事项和材料清单，再给出年报、变更登记、财产独立等注册后合规日历。只做信息指引，不构成法律或财税意见。
 
-> 这是「一人公司工具包」的第 7 步。这是工具包的最后一步；串联全部步骤的大仓库即将推出。
+> 这是「一人公司工具包」的第 7 步。这是工具包的最后一步；串联全部 7 步的合集见 [AI 创业 Skill 包 ai-startup-skills](https://github.com/huaxialucaicaizi/ai-startup-skills)。
 
 **痛点**
 - 个体户、个人独资、有限公司分不清，网上说法互相矛盾
@@ -164,10 +164,10 @@ scripts/validate.py
 | 2. 商业计划书 | [business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill) |
 | 3. 政策与补贴 | [opc-policy-navigator](https://github.com/huaxialucaicaizi/opc-policy-navigator) |
 | 4. 路演教练 | [ai-pitch-coach](https://github.com/huaxialucaicaizi/ai-pitch-coach) |
-| 5. 增长获客 | 即将推出 |
+| 5. 增长获客 | [opc-growth-playbook](https://github.com/huaxialucaicaizi/opc-growth-playbook) |
 | 6. 定价与成交 | [opc-pricing-sales](https://github.com/huaxialucaicaizi/opc-pricing-sales) |
 | 7. 注册与合规 | [opc-registration-compliance](https://github.com/huaxialucaicaizi/opc-registration-compliance)（本仓库） |
-| 串联大仓库 | 即将推出 |
+| AI 创业 Skill 包（全套 7 步） | [ai-startup-skills](https://github.com/huaxialucaicaizi/ai-startup-skills) |
 
 <a id="zh-faq"></a>
 ### 常见问题
@@ -240,7 +240,7 @@ A：暂不覆盖。
 
 An Agent Skill that helps solo founders in mainland China choose an entity, register and stay compliant: compares individual businesses, sole proprietorships and one-shareholder limited companies by liability, governance and capital (each with the legal article), builds a registration checklist, and creates a post-registration compliance calendar (annual reports, change filings, asset separation). Information only, not legal or tax advice.
 
-> Step 7 of the "One-Person Company Toolkit". This is the last step; the full toolkit repo is coming soon.
+> Step 7 of the "One-Person Company Toolkit". This is the last step; the full bundle of all 7 steps is at [AI Startup Skills – ai-startup-skills](https://github.com/huaxialucaicaizi/ai-startup-skills).
 
 **The problem**
 - Confused between entity types; online advice contradicts itself
@@ -360,10 +360,10 @@ scripts/validate.py
 | 2. Business Plan | [business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill) |
 | 3. Policy & Subsidies | [opc-policy-navigator](https://github.com/huaxialucaicaizi/opc-policy-navigator) |
 | 4. Roadshow Coach | [ai-pitch-coach](https://github.com/huaxialucaicaizi/ai-pitch-coach) |
-| 5. Growth | Coming soon |
+| 5. Growth | [opc-growth-playbook](https://github.com/huaxialucaicaizi/opc-growth-playbook) |
 | 6. Pricing & Closing | [opc-pricing-sales](https://github.com/huaxialucaicaizi/opc-pricing-sales) |
 | 7. Registration & Compliance | [opc-registration-compliance](https://github.com/huaxialucaicaizi/opc-registration-compliance) (this repo) |
-| Full toolkit repo | Coming soon |
+| AI Startup Skills (all 7 steps) | [ai-startup-skills](https://github.com/huaxialucaicaizi/ai-startup-skills) |
 
 <a id="en-faq"></a>
 ### FAQ

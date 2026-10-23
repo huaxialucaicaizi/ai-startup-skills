@@ -44,7 +44,7 @@ Cold-start growth on Xiaohongshu, Douyin and WeChat Channels — funnel, experim
 
 一个帮一人公司在**小红书、抖音、视频号**冷启动的 Agent Skill：确认定位，搭增长漏斗并定义指标，用 ICE 排增长实验，排出 2–4 周内容日历和口播脚本，检查广告标识等合规事项，再按真实数据每周复盘。
 
-> 这是「一人公司工具包」的第 5 步。下一步定价与成交即将推出。
+> 这是「一人公司工具包」的第 5 步。下一步：[定价与成交 opc-pricing-sales](https://github.com/huaxialucaicaizi/opc-pricing-sales)。
 
 **痛点**
 - 发了很多内容，不知道哪里出问题：没曝光、没互动，还是没人咨询
@@ -173,7 +173,7 @@ scripts/validate.py
 | 5. 增长获客 | [opc-growth-playbook](https://github.com/huaxialucaicaizi/opc-growth-playbook)（本仓库） |
 | 6. 定价与成交 | [opc-pricing-sales](https://github.com/huaxialucaicaizi/opc-pricing-sales) |
 | 7. 注册与合规 | [opc-registration-compliance](https://github.com/huaxialucaicaizi/opc-registration-compliance) |
-| 串联大仓库 | 即将推出 |
+| AI 创业 Skill 包（全套 7 步） | [ai-startup-skills](https://github.com/huaxialucaicaizi/ai-startup-skills) |
 
 <a id="zh-faq"></a>
 ### 常见问题
@@ -246,7 +246,7 @@ A：本 skill 不复述未核实的平台规则，请以各平台官方规则为
 
 An Agent Skill that helps one-person companies cold-start on **Xiaohongshu, Douyin and WeChat Channels**: confirm positioning, build a growth funnel with defined metrics, prioritize experiments with ICE, plan a 2–4 week content calendar and short-video scripts, check ad-labeling compliance, and review weekly with real data.
 
-> Step 5 of the "One-Person Company Toolkit". Next step (pricing & closing) is coming soon.
+> Step 5 of the "One-Person Company Toolkit". Next step: [Pricing & Closing – opc-pricing-sales](https://github.com/huaxialucaicaizi/opc-pricing-sales).
 
 **The problem**
 - Posting a lot but not knowing where it breaks: reach, engagement or inquiries
@@ -375,7 +375,7 @@ scripts/validate.py
 | 5. Growth | [opc-growth-playbook](https://github.com/huaxialucaicaizi/opc-growth-playbook) (this repo) |
 | 6. Pricing & Closing | [opc-pricing-sales](https://github.com/huaxialucaicaizi/opc-pricing-sales) |
 | 7. Registration & Compliance | [opc-registration-compliance](https://github.com/huaxialucaicaizi/opc-registration-compliance) |
-| Full toolkit repo | Coming soon |
+| AI Startup Skills (all 7 steps) | [ai-startup-skills](https://github.com/huaxialucaicaizi/ai-startup-skills) |
 
 <a id="en-faq"></a>
 ### FAQ

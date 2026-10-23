@@ -44,7 +44,7 @@ Prepare 3- and 5-minute pitches and judge Q&A for China government parks, OPC co
 
 一个专做**政府园区、OPC 社区入驻、孵化器、创业大赛**现场路演和答辩的 Agent Skill：生成带时间分配的 3 / 5 分钟逐字稿，按场合从评委题库中挑题并写回答要点，模拟答辩，再给出排练清单。面向风险投资人的融资路演不是本 skill 的重点。
 
-> 这是「一人公司工具包」的第 4 步。下一步增长获客即将推出。
+> 这是「一人公司工具包」的第 4 步。下一步：[增长获客 opc-growth-playbook](https://github.com/huaxialucaicaizi/opc-growth-playbook)。
 
 **痛点**
 - 3 分钟讲不完，或者讲完评委还是不知道你做什么
@@ -163,10 +163,10 @@ scripts/validate.py
 | 2. 商业计划书 | [business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill) |
 | 3. 政策与补贴 | [opc-policy-navigator](https://github.com/huaxialucaicaizi/opc-policy-navigator) |
 | 4. 路演教练 | [ai-pitch-coach](https://github.com/huaxialucaicaizi/ai-pitch-coach)（本仓库） |
-| 5. 增长获客 | 即将推出 |
+| 5. 增长获客 | [opc-growth-playbook](https://github.com/huaxialucaicaizi/opc-growth-playbook) |
 | 6. 定价与成交 | [opc-pricing-sales](https://github.com/huaxialucaicaizi/opc-pricing-sales) |
 | 7. 注册与合规 | [opc-registration-compliance](https://github.com/huaxialucaicaizi/opc-registration-compliance) |
-| 串联大仓库 | 即将推出 |
+| AI 创业 Skill 包（全套 7 步） | [ai-startup-skills](https://github.com/huaxialucaicaizi/ai-startup-skills) |
 
 <a id="zh-faq"></a>
 ### 常见问题
@@ -239,7 +239,7 @@ A：只用你提供的、带官方链接的政策原文；可以先用 opc-polic
 
 An Agent Skill for live pitches and defenses at **China government parks, OPC communities, incubators and startup competitions**: 3- and 5-minute scripts with timing, judge Q&A picked from a categorized bank, mock defense and a rehearsal checklist. Not focused on VC fundraising pitches.
 
-> Step 4 of the "One-Person Company Toolkit". Next step (growth) is coming soon.
+> Step 4 of the "One-Person Company Toolkit". Next step: [Growth – opc-growth-playbook](https://github.com/huaxialucaicaizi/opc-growth-playbook).
 
 **The problem**
 - Running out of time in 3 minutes, or judges still unsure what you do
@@ -358,10 +358,10 @@ scripts/validate.py
 | 2. Business Plan | [business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill) |
 | 3. Policy & Subsidies | [opc-policy-navigator](https://github.com/huaxialucaicaizi/opc-policy-navigator) |
 | 4. Roadshow Coach | [ai-pitch-coach](https://github.com/huaxialucaicaizi/ai-pitch-coach) (this repo) |
-| 5. Growth | Coming soon |
+| 5. Growth | [opc-growth-playbook](https://github.com/huaxialucaicaizi/opc-growth-playbook) |
 | 6. Pricing & Closing | [opc-pricing-sales](https://github.com/huaxialucaicaizi/opc-pricing-sales) |
 | 7. Registration & Compliance | [opc-registration-compliance](https://github.com/huaxialucaicaizi/opc-registration-compliance) |
-| Full toolkit repo | Coming soon |
+| AI Startup Skills (all 7 steps) | [ai-startup-skills](https://github.com/huaxialucaicaizi/ai-startup-skills) |
 
 <a id="en-faq"></a>
 ### FAQ
