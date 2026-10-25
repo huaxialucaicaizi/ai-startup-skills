@@ -26,7 +26,7 @@ def check(path, want):
     else:
         print(f"✅ {rel}: {name} ({len(desc)} chars)")
     base = path.parent
-    for ref in re.findall(r"`((?:references|templates)/[^`]+\.md)`", text):
+    for ref in re.findall(r"`((?:references|templates|cases)/[^`]+\.md)`", text):
         if not (base / ref).exists():
             err.append(f"{rel}: missing {ref}")
     return text
