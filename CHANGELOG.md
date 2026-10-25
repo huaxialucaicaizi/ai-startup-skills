@@ -1,5 +1,12 @@
 # Changelog
 
+## Unreleased
+
+- Add `cases/`: 3 real cases from the author's own experience (真实案例), each mapped to toolkit steps — big-tech AI growth → solo content growth (step 5), open-sourcing this toolkit as MVP + distribution (steps 1/5/6), campus-talk career narrative (steps 4/2). No invented metrics; unknowns marked 未公开.
+- Router `SKILL.md` points to the matching case when a user wants a real example
+- `scripts/validate.py` also checks that `cases/*.md` files referenced by the router exist
+- README links the cases (中文 + English)
+
 ## v1.0.0 - 2026-10-22
 
 - First release of AI 创业 Skill 包 (AI Startup Skills)
