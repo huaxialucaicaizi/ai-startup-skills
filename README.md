@@ -205,7 +205,7 @@ A：验证、BP、路演、定价的思路通用；政策导航、注册与合�
 
 ### Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=huaxialucaicaizi/ai-startup-skills&type=Date)](https://star-history.com/#huaxialucaicaizi/ai-startup-skills&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=huaxialucaicaizi/ai-startup-skills&type=Date&t=20261026)](https://star-history.com/#huaxialucaicaizi/ai-startup-skills&Date)
 
 <a id="zh-license"></a>
 ### 许可
@@ -403,7 +403,7 @@ If this toolkit helps you, a Star ⭐ is appreciated.
 
 ### Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=huaxialucaicaizi/ai-startup-skills&type=Date)](https://star-history.com/#huaxialucaicaizi/ai-startup-skills&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=huaxialucaicaizi/ai-startup-skills&type=Date&t=20261026)](https://star-history.com/#huaxialucaicaizi/ai-startup-skills&Date)
 
 <a id="en-license"></a>
 ### License
