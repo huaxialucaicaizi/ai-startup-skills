@@ -13,7 +13,7 @@
 - 作者先后在百度、字节跳动、vivo、腾讯工作，做产品增长。
 - 在腾讯参与腾讯元宝的增长，以及 CodeBuddy 的达人（KOL）营销。
 - 作者自述：参与的元宝增长工作中，产品曾登上 iOS 下载榜第一。这是作者经历陈述，本仓库没有附第三方榜单截图或数据，引用时请保留「作者自述」。
-- 2026 年 3 月起，作者作为联合创始人兼 CMO 参与 AI 创业公司 Nanako AI Lab，同时以「华夏路菜菜子」做内容创作。
+- 2026 年 3 月起，作者作为联合创始人兼 CMO 参与一家 AI 创业公司，同时以「华夏路菜菜子」做内容创作。
 
 大厂做增长和一个人做增长，最大的不同不是方法，而是约束：没有投放预算、没有品牌、没有团队，一个人既是产品也是渠道。
 
@@ -45,4 +45,4 @@
 
 ## English summary
 
-**Real case (author's own experience).** The author worked on product growth at Baidu, ByteDance, vivo and Tencent, including Tencent Yuanbao growth (author-attributed: the app reached #1 on the iOS download chart; no third-party source attached here) and creator/KOL marketing for CodeBuddy. Since March 2026 the author is co-founder & CMO of Nanako AI Lab and a content creator. The case maps step 5 (growth) and shows how to translate big-tech growth experience into solo-founder actions: position first, turn credentials into takeaway content, replace paid KOL deals with peer collaborations as tracked experiments, use your own funnel baseline, and hand inquiries to step 6. No content metrics are published, so none are stated.
+**Real case (author's own experience).** The author worked on product growth at Baidu, ByteDance, vivo and Tencent, including Tencent Yuanbao growth (author-attributed: the app reached #1 on the iOS download chart; no third-party source attached here) and creator/KOL marketing for CodeBuddy. Since March 2026 the author has been co-founder & CMO of an AI startup and a content creator. The case maps step 5 (growth) and shows how to translate big-tech growth experience into solo-founder actions: position first, turn credentials into takeaway content, replace paid KOL deals with peer collaborations as tracked experiments, use your own funnel baseline, and hand inquiries to step 6. No content metrics are published, so none are stated.

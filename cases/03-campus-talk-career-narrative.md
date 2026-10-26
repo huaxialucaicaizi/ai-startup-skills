@@ -10,7 +10,7 @@
 
 ## 背景
 
-- 作者的履历：百度 → 字节跳动 → vivo → 腾讯（资深产品增长，参与腾讯元宝增长和 CodeBuddy 达人营销）→ 2026 年 3 月起任 AI 创业公司 Nanako AI Lab 联合创始人兼 CMO，同时以「华夏路菜菜子」做内容创作。
+- 作者的履历：百度 → 字节跳动 → vivo → 腾讯（资深产品增长，参与腾讯元宝增长和 CodeBuddy 达人营销）→ 2026 年 3 月起任一家 AI 创业公司的联合创始人兼 CMO，同时以「华夏路菜菜子」做内容创作。
 - 讲座场合：深圳大学、香港城市大学。
 - 讲座主题框架：文科生 / 非技术背景的人，怎么在 AI 浪潮里完成职业跃迁。
 - 同一主题的延伸：作者在策划「普通人转行 AI」的短视频系列（策划中，播放等数据未公开）。
@@ -50,4 +50,4 @@
 
 ## English summary
 
-**Real case (author's own experience).** The author has given talks at Shenzhen University and City University of Hong Kong framed around how people from non-technical / humanities backgrounds can make a career leap into AI, drawing on a path from Baidu, ByteDance, vivo and Tencent (Yuanbao growth, CodeBuddy creator marketing) to co-founding Nanako AI Lab as CMO. The case maps step 4 (pitch) and the founder section of step 2 (BP). Reusable lessons: replace a chronological CV with one storyline plus one evidence point per role, mark unverifiable claims as self-reported, tailor the landing point to the audience, prepare honest answers for weak spots, and reuse the same storyline across talks, pitches and short videos. Audience size, feedback and outcomes are not public and are not stated.
+**Real case (author's own experience).** The author has given talks at Shenzhen University and City University of Hong Kong framed around how people from non-technical / humanities backgrounds can make a career leap into AI, drawing on a path from Baidu, ByteDance, vivo and Tencent (Yuanbao growth, CodeBuddy creator marketing) to co-founding an AI startup as CMO. The case maps step 4 (pitch) and the founder section of step 2 (BP). Reusable lessons: replace a chronological CV with one storyline plus one evidence point per role, mark unverifiable claims as self-reported, tailor the landing point to the audience, prepare honest answers for weak spots, and reuse the same storyline across talks, pitches and short videos. Audience size, feedback and outcomes are not public and are not stated.
