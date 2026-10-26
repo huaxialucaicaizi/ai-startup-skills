@@ -27,7 +27,6 @@ Seven agent skills for building an AI product as a one-person company, from idea
 - [7 步工具包](#zh-steps)
 - [它和单独安装有什么不同](#zh-diff)
 - [适合 / 不适合](#zh-fit)
-- [真实案例](#zh-cases)
 - [快速开始](#zh-quickstart)
 - [怎么用](#zh-usage)
 - [原则](#zh-principles)
@@ -85,19 +84,6 @@ Seven agent skills for building an AI product as a one-person company, from idea
 - 需要正式法律、税务意见：本工具包只提供信息参考，请以官方原文和专业人士意见为准
 - 面向 VC 的融资路演：路演教练针对的是园区、孵化器和创业大赛
 
-<a id="zh-cases"></a>
-### 真实案例
-
-[`cases/`](cases/README.md) 收录作者本人的**真实案例**，每个案例对应工具包的某几步，附可复用动作清单。只写作者公开过的事实，不知道的数字标「未公开」。
-
-| 案例 | 对应步骤 |
-|---|---|
-| [从大厂 AI 产品增长到一人公司内容获客](cases/01-big-tech-ai-growth-to-content.md) | 第 5 步（兼第 6 步） |
-| [把「一人公司工具包」开源，当作 MVP 和分发渠道](cases/02-open-source-skill-pack-as-mvp.md) | 第 1、5、6 步 |
-| [高校讲座：把职业经历讲成「文科生 AI 职业跃迁」](cases/03-campus-talk-career-narrative.md) | 第 4 步、第 2 步创始人介绍 |
-
-欢迎投稿你自己的真实案例，格式见 [`cases/README.md`](cases/README.md)。
-
 <a id="zh-quickstart"></a>
 ### 快速开始
 
@@ -148,7 +134,7 @@ cp -R ai-startup-skills ~/.claude/skills/ai-startup-skills
 <a id="zh-principles"></a>
 ### 原则
 
-- **不编数据**：不编造行业平均值、案例和用户评价，示例都会标明虚构；真实案例标明「真实案例（作者经历）」
+- **不编数据**：不编造行业平均值、案例和用户评价，示例都会标明虚构
 - **只用官方来源**：政策、法规、平台规则附官方原文链接
 - **信息参考，不是法律或税务意见**
 - **子 skill 的规则优先**：进入某一步后，按那一步的 SKILL.md 执行
@@ -168,9 +154,8 @@ ai-startup-skills/
 │   ├── opc-growth-playbook/          # 第 5 步
 │   ├── opc-pricing-sales/            # 第 6 步
 │   └── opc-registration-compliance/  # 第 7 步
-├── cases/                   # 真实案例（作者经历），不受 sync.sh 影响
 ├── scripts/
-│   ├── validate.py          # 校验总入口、7 个子 skill 的 frontmatter 和案例引用
+│   ├── validate.py          # 校验总入口和 7 个子 skill 的 frontmatter
 │   └── sync.sh              # 从 7 个独立仓库重新拉取到 skills/
 ├── CHANGELOG.md
 └── LICENSE
@@ -240,7 +225,6 @@ A：验证、BP、路演、定价的思路通用；政策导航、注册与合�
 - [The 7-step toolkit](#en-steps)
 - [Bundle vs. standalone](#en-diff)
 - [Who it is for](#en-fit)
-- [Real cases](#en-cases)
 - [Quick start](#en-quickstart)
 - [How to use](#en-usage)
 - [Principles](#en-principles)
@@ -298,19 +282,6 @@ If you only need one step, install that standalone repo.
 - Formal legal or tax advice: this toolkit gives information guidance only; rely on official texts and professionals
 - VC fundraising pitches: the pitch coach targets parks, incubators and competitions
 
-<a id="en-cases"></a>
-### Real cases
-
-[`cases/`](cases/README.md) holds **real cases from the author's own experience** (in Chinese, each with an English summary), mapped to toolkit steps with a reusable action list. Only publicly attributable facts are used; unknown numbers are marked as not public.
-
-| Case | Steps |
-|---|---|
-| [Big-tech AI product growth → solo content growth](cases/01-big-tech-ai-growth-to-content.md) | 5 (also 6) |
-| [Open-sourcing this toolkit as an MVP and distribution channel](cases/02-open-source-skill-pack-as-mvp.md) | 1, 5, 6 |
-| [Campus talks: turning a career path into one storyline](cases/03-campus-talk-career-narrative.md) | 4, plus the BP founder section in 2 |
-
-Contributions of your own real cases are welcome; see [`cases/README.md`](cases/README.md) for the format.
-
 <a id="en-quickstart"></a>
 ### Quick start
 
@@ -361,7 +332,7 @@ Use opc-pricing-sales to price this AI product: ___
 <a id="en-principles"></a>
 ### Principles
 
-- **No invented data**: no made-up benchmarks, cases or testimonials; examples are marked fictional, real cases are marked as the author's own experience
+- **No invented data**: no made-up benchmarks, cases or testimonials; examples are marked fictional
 - **Official sources only** for policies, laws and platform rules
 - **Information guidance, not legal or tax advice**
 - **Sub-skill rules win** inside each step
@@ -381,9 +352,8 @@ ai-startup-skills/
 │   ├── opc-growth-playbook/          # step 5
 │   ├── opc-pricing-sales/            # step 6
 │   └── opc-registration-compliance/  # step 7
-├── cases/                   # real cases (author's experience); untouched by sync.sh
 ├── scripts/
-│   ├── validate.py          # checks router + 7 sub-skill frontmatter and case refs
+│   ├── validate.py          # checks router + 7 sub-skill frontmatter
 │   └── sync.sh              # re-pulls the 7 standalone repos into skills/
 ├── CHANGELOG.md
 └── LICENSE
