@@ -27,6 +27,16 @@ This is the entry skill for a 7-step toolkit. It does not do the work itself: it
 4. Pass outputs forward: validation evidence from step 1 feeds the BP in step 2; the BP feeds policy applications (3) and the roadshow (4); pricing (6) uses the funnel data from growth (5).
 5. When a step finishes, say in one line which step is a sensible next one, and why.
 
+## Real cases
+
+`cases/` holds short real cases from the author's own experience (真实案例), each mapped to steps. When the user asks for a real example, or seems unsure how a step plays out in practice, point them to the matching case alongside the sub-skill. Do not add numbers or outcomes that the case does not state.
+
+| Case | Steps |
+|---|---|
+| `cases/01-big-tech-ai-growth-to-content.md` | 5 growth (also 6) |
+| `cases/02-open-source-skill-pack-as-mvp.md` | 1 validation, 5, 6 |
+| `cases/03-campus-talk-career-narrative.md` | 4 pitch, 2 BP founder section |
+
 ## Rules
 
 - Each sub-skill's own rules win inside that step (official links only, no invented benchmarks, compliance flags).
