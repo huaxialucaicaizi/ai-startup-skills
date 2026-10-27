@@ -5,6 +5,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
+### Changed
+- SKILL.md「可选衔接」：定价与成交步骤已上线，去掉"即将推出"，改为链接第 6 步 opc-pricing-sales
+- SKILL.md: the pricing & closing step is live; replaced "coming soon" with a link to step 6, opc-pricing-sales
+- README「一人公司工具包」表格：仓库链接统一为加粗的“英文名 · 中文名”（英文版只加粗英文名），与 ai-mvp-validation 写法一致
+- README toolkit tables: repository links now use bold names ("English name · 中文名" in the Chinese section, English name only in the English section), matching ai-mvp-validation
+
 ## [1.0.0] - 2026-10-22
 
 ### Added

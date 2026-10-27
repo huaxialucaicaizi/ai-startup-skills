@@ -5,6 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
+### Changed
+- README「一人公司工具包」表格：仓库链接改为加粗"英文名 · 中文名"（英文版只用英文名），与姐妹仓库写法一致
+- README "One-Person Company Toolkit" table: repo links now use bold names, matching sister repos
+
+### Fixed
+- SKILL.md「可选衔接」：第 5 步增长获客已上线，去掉"即将推出"，并为第 1、2、5 步补上仓库链接
+- SKILL.md "Optional hand-offs": step 5 (growth) is live; replaced "coming soon" and linked steps 1, 2 and 5
+
 ## [1.0.0] - 2026-10-22
 
 ### Added

@@ -5,6 +5,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
+### Changed
+- README「一人公司工具包」表格：仓库链接改为加粗的「英文名 · 中文名」（与合集 ai-startup-skills 一致），英文版用加粗英文名
+- README toolkit tables: repo links now use bold "English name · Chinese name" (matching the ai-startup-skills bundle); the English section uses bold English names
+- README 开头的第 7 步提示和「园区工位注册」FAQ 中提到的姐妹仓库改为可点击、加粗的「英文名 · 中文名」链接；英文 FAQ 补上与中文版一致的政策导航指引
+- README step-7 note and park-desk FAQ now link sister repos with bold names; the English FAQ now points to OPC Policy Navigator like the Chinese one
+
 ## [1.0.0] - 2026-10-22
 
 ### Added
