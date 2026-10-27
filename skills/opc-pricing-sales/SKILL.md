@@ -45,9 +45,9 @@ description: Use when a one-person company (OPC/一人公司) or solo founder se
 
 ## 可选衔接（不依赖其他 skill）
 
-- 有想法验证结论时，用其中的"付多少钱"作为起点，并保留其证据状态（已验证 / 待验证）。
-- 写 BP 时，把定价和成交数据回填"商业模式 / 收入预测"：**实际成交**与**假设**分开标注。
-- 获客与内容可配合增长获客步骤（即将推出）。
+- 有想法验证结论（第 1 步 [ai-mvp-validation](https://github.com/huaxialucaicaizi/ai-mvp-validation)）时，用其中的"付多少钱"作为起点，并保留其证据状态（已验证 / 待验证）。
+- 写 BP（第 2 步 [business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill)）时，把定价和成交数据回填"商业模式 / 收入预测"：**实际成交**与**假设**分开标注。
+- 获客与内容可配合第 5 步 [opc-growth-playbook](https://github.com/huaxialucaicaizi/opc-growth-playbook)（增长获客）。
 
 ## 硬性规则
 

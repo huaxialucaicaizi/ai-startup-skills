@@ -44,7 +44,7 @@ Sole proprietorship, individual business or one-shareholder company? How to regi
 
 一个帮中国大陆一人创业者**选主体、办注册、守合规**的 Agent Skill：按责任承担、组织机构、出资对比个体工商户、个人独资企业和一人有限公司（每条附法律条款出处），生成登记事项和材料清单，再给出年报、变更登记、财产独立等注册后合规日历。只做信息指引，不构成法律或财税意见。
 
-> 这是「一人公司工具包」的第 7 步。这是工具包的最后一步；串联全部 7 步的合集见 [AI 创业 Skill 包 ai-startup-skills](https://github.com/huaxialucaicaizi/ai-startup-skills)。
+> 这是「一人公司工具包」的第 7 步，也是最后一步；串联全部 7 步的合集见 [**AI Startup Skills · AI 创业 Skill 包**](https://github.com/huaxialucaicaizi/ai-startup-skills)。
 
 **痛点**
 - 个体户、个人独资、有限公司分不清，网上说法互相矛盾
@@ -160,14 +160,14 @@ scripts/validate.py
 
 | 步骤 | 仓库 |
 |---|---|
-| 1. AI 产品 MVP 验证 | [ai-mvp-validation](https://github.com/huaxialucaicaizi/ai-mvp-validation) |
-| 2. 商业计划书 | [business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill) |
-| 3. 政策与补贴 | [opc-policy-navigator](https://github.com/huaxialucaicaizi/opc-policy-navigator) |
-| 4. 路演教练 | [ai-pitch-coach](https://github.com/huaxialucaicaizi/ai-pitch-coach) |
-| 5. 增长获客 | [opc-growth-playbook](https://github.com/huaxialucaicaizi/opc-growth-playbook) |
-| 6. 定价与成交 | [opc-pricing-sales](https://github.com/huaxialucaicaizi/opc-pricing-sales) |
-| 7. 注册与合规 | [opc-registration-compliance](https://github.com/huaxialucaicaizi/opc-registration-compliance)（本仓库） |
-| AI 创业 Skill 包（全套 7 步） | [ai-startup-skills](https://github.com/huaxialucaicaizi/ai-startup-skills) |
+| 1 | [**AI MVP Validation · AI 产品 MVP 验证**](https://github.com/huaxialucaicaizi/ai-mvp-validation) |
+| 2 | [**Business Plan Skill · 商业计划书**](https://github.com/huaxialucaicaizi/business-plan-skill) |
+| 3 | [**OPC Policy Navigator · 一人公司政策导航**](https://github.com/huaxialucaicaizi/opc-policy-navigator) |
+| 4 | [**AI Pitch Coach · 路演教练**](https://github.com/huaxialucaicaizi/ai-pitch-coach) |
+| 5 | [**OPC Growth Playbook · 一人公司增长获客**](https://github.com/huaxialucaicaizi/opc-growth-playbook) |
+| 6 | [**OPC Pricing & Sales · 定价与成交**](https://github.com/huaxialucaicaizi/opc-pricing-sales) |
+| 7 | [**OPC Registration & Compliance · 一人公司注册与合规**](https://github.com/huaxialucaicaizi/opc-registration-compliance)（本仓库） |
+| 合集 | [**AI Startup Skills · AI 创业 Skill 包**](https://github.com/huaxialucaicaizi/ai-startup-skills)（全套 7 步） |
 
 <a id="zh-faq"></a>
 ### 常见问题
@@ -179,7 +179,7 @@ A：不能替你决定。会给出带条款出处的对比和需要你确认的�
 A：本 skill 不做税负比较，请以税务机关最新规定为准，必要时咨询专业人士。
 
 **Q：可以用园区工位注册吗？**<br>
-A：条例允许省级政府作出更便利的住所规定；具体以当地官方政策为准，可用 opc-policy-navigator 查询。
+A：条例允许省级政府作出更便利的住所规定；具体以当地官方政策为准，可用 [**OPC Policy Navigator · 一人公司政策导航**](https://github.com/huaxialucaicaizi/opc-policy-navigator) 查询。
 
 **Q：注册要多少天？**<br>
 A：条例规定：材料齐全的当场登记，不能当场登记的 3 个工作日内登记，情形复杂可再延长 3 个工作日。实际以当地为准。
@@ -240,7 +240,7 @@ A：暂不覆盖。
 
 An Agent Skill that helps solo founders in mainland China choose an entity, register and stay compliant: compares individual businesses, sole proprietorships and one-shareholder limited companies by liability, governance and capital (each with the legal article), builds a registration checklist, and creates a post-registration compliance calendar (annual reports, change filings, asset separation). Information only, not legal or tax advice.
 
-> Step 7 of the "One-Person Company Toolkit". This is the last step; the full bundle of all 7 steps is at [AI Startup Skills – ai-startup-skills](https://github.com/huaxialucaicaizi/ai-startup-skills).
+> Step 7 of the "One-Person Company Toolkit". This is the last step; the full bundle of all 7 steps is at [**AI Startup Skills**](https://github.com/huaxialucaicaizi/ai-startup-skills).
 
 **The problem**
 - Confused between entity types; online advice contradicts itself
@@ -356,14 +356,14 @@ scripts/validate.py
 
 | Step | Repository |
 |---|---|
-| 1. AI MVP Validation | [ai-mvp-validation](https://github.com/huaxialucaicaizi/ai-mvp-validation) |
-| 2. Business Plan | [business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill) |
-| 3. Policy & Subsidies | [opc-policy-navigator](https://github.com/huaxialucaicaizi/opc-policy-navigator) |
-| 4. Roadshow Coach | [ai-pitch-coach](https://github.com/huaxialucaicaizi/ai-pitch-coach) |
-| 5. Growth | [opc-growth-playbook](https://github.com/huaxialucaicaizi/opc-growth-playbook) |
-| 6. Pricing & Closing | [opc-pricing-sales](https://github.com/huaxialucaicaizi/opc-pricing-sales) |
-| 7. Registration & Compliance | [opc-registration-compliance](https://github.com/huaxialucaicaizi/opc-registration-compliance) (this repo) |
-| AI Startup Skills (all 7 steps) | [ai-startup-skills](https://github.com/huaxialucaicaizi/ai-startup-skills) |
+| 1 | [**AI MVP Validation**](https://github.com/huaxialucaicaizi/ai-mvp-validation) |
+| 2 | [**Business Plan Skill**](https://github.com/huaxialucaicaizi/business-plan-skill) |
+| 3 | [**OPC Policy Navigator**](https://github.com/huaxialucaicaizi/opc-policy-navigator) |
+| 4 | [**AI Pitch Coach**](https://github.com/huaxialucaicaizi/ai-pitch-coach) |
+| 5 | [**OPC Growth Playbook**](https://github.com/huaxialucaicaizi/opc-growth-playbook) |
+| 6 | [**OPC Pricing & Sales**](https://github.com/huaxialucaicaizi/opc-pricing-sales) |
+| 7 | [**OPC Registration & Compliance**](https://github.com/huaxialucaicaizi/opc-registration-compliance) (this repo) |
+| Bundle | [**AI Startup Skills**](https://github.com/huaxialucaicaizi/ai-startup-skills) (all 7 steps) |
 
 <a id="en-faq"></a>
 ### FAQ
@@ -375,7 +375,7 @@ A: No. You get a sourced comparison and questions to decide.
 A: No tax comparisons; check with the tax authority.
 
 **Q: Can I use a park desk address?**<br>
-A: The regulation allows provincial facilitation; check local official policies.
+A: The regulation allows provincial facilitation; check local official policies, e.g. with [**OPC Policy Navigator**](https://github.com/huaxialucaicaizi/opc-policy-navigator).
 
 **Q: How long does registration take?**<br>
 A: Per the regulation: same day if complete, otherwise within 3 working days, extendable by 3 in complex cases. Local practice may vary.

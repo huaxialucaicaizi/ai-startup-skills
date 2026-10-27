@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- Sync all 7 `skills/` copies with their standalone repos' `main` via `scripts/sync.sh` (用 sync.sh 同步 7 个子 skill 副本): bold bilingual repo names in toolkit tables, business-plan-skill Validation Evidence section + fictional financial/validation example + Final Delivery Check, opc-policy-navigator SH-XH-02 document number, and stale "coming soon" hand-offs replaced with links.
 - Remove the author's personal real cases (`cases/`) and every reference to them, at the author's request (应作者要求删除个人真实案例及全部引用). This reverts the unreleased cases addition: README (中文 + English), router `SKILL.md` and `scripts/validate.py` no longer mention `cases/`.
 
 ## v1.0.0 - 2026-10-22

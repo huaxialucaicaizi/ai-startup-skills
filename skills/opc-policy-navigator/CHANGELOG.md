@@ -5,6 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
+### Fixed
+- 上海政策库 SH-XH-02：补上官方页面标注的文号「徐市监营商〔2026〕91号」（原写“页面未标注文号”），2026-10-26 在徐汇区政府官网原文页核对
+- Shanghai DB SH-XH-02: added the document number shown on the official Xuhui District page (previously listed as "not shown")
+
+### Changed
+- README「一人公司工具包」表格：仓库链接改为加粗的中英文名（如 **AI Pitch Coach · 路演教练**），与 ai-startup-skills 合集一致；英文表格只用英文名
+- README toolkit tables: repo links now use bold project names, matching the ai-startup-skills bundle (English table uses English names only)
+
 ## [1.0.0] - 2026-10-22
 
 ### Added
