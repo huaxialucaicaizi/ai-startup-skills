@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
-"""Validate SKILL.md frontmatter, agents/openai.yaml and references links."""
+"""Validate SKILL.md frontmatter, agents/openai.yaml, references links and official (*.gov.cn) sources."""
 import re, sys, pathlib, yaml
+from urllib.parse import urlparse
 root = pathlib.Path(__file__).resolve().parent.parent
 err = []
 text = (root / "SKILL.md").read_text(encoding="utf-8")
@@ -21,6 +22,11 @@ else:
 for ref in re.findall(r"`((?:references|templates)/[^`]+\.md)`", text):
     if not (root / ref).exists():
         err.append(f"SKILL.md: missing {ref}")
+for f in sorted([*root.glob("references/*.md"), *root.glob("templates/*.md")]):
+    for url in re.findall(r"https?://[^\s)>`\"，。；]+", f.read_text(encoding="utf-8")):
+        host = urlparse(url).hostname or ""
+        if not (host == "gov.cn" or host.endswith(".gov.cn")):
+            err.append(f"{f.relative_to(root)}: non-government source {url}")
 oa = yaml.safe_load((root / "agents/openai.yaml").read_text(encoding="utf-8")) or {}
 iface = oa.get("interface", {})
 for k in ("display_name", "short_description", "default_prompt"):

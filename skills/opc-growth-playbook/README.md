@@ -188,7 +188,7 @@ A：可以，内容日历和脚本会按"不出镜"（录屏、图文、配音�
 A：可选。不投流就只做自然流量；投流时预算由你定，并按实验卡记录效果。
 
 **Q：支持海外平台吗？**<br>
-A：本 skill 以小红书、抖音、视频号为主；海外广告测试可参考 ai-mvp-validation 中的 Meta 广告验证。
+A：本 skill 以小红书、抖音、视频号为主；海外广告测试可参考第 1 步 [**AI MVP Validation · AI 产品 MVP 验证**](https://github.com/huaxialucaicaizi/ai-mvp-validation) 中的 Meta 广告验证。
 
 **Q：平台规则会变怎么办？**<br>
 A：本 skill 不复述未核实的平台规则，请以各平台官方规则为准。
@@ -390,7 +390,7 @@ A: Yes, plans can use screen recordings, image posts and voice-over.
 A: Optional; you set the budget and log results with experiment cards.
 
 **Q: Overseas platforms?**<br>
-A: Focus is China; for Meta ad tests see ai-mvp-validation.
+A: Focus is China; for Meta ad tests see step 1, [**AI MVP Validation**](https://github.com/huaxialucaicaizi/ai-mvp-validation).
 
 **Q: Platform rules change?**<br>
 A: Not restated here; follow the official rules of each platform.

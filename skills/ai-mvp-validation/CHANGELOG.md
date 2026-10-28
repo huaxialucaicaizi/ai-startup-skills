@@ -12,6 +12,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - README toolkit tables: repo links now show bold display names, matching the ai-startup-skills bundle
 - README「不适合」：把"之后的增长步骤"改为链接到第 5 步 **OPC Growth Playbook · 一人公司增长获客**
 - README "Not a fit": the "later growth step" now links to step 5, OPC Growth Playbook
+- README 开头「下一步」提示：`business-plan-skill` 改为加粗的第 2 步 **Business Plan Skill · 商业计划书**，与工具包表格写法一致
+- README intro "next step" note: now shows step 2 as **Business Plan Skill** instead of the raw repo slug
 
 ## [1.0.0] - 2026-10-22
 
