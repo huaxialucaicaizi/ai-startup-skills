@@ -12,6 +12,10 @@ Seven agent skills for building an AI product as a one-person company, from idea
 [![GitHub stars](https://img.shields.io/github/stars/huaxialucaicaizi/ai-startup-skills?style=social)](https://github.com/huaxialucaicaizi/ai-startup-skills)
 [![Agent Skill](https://img.shields.io/badge/Agent%20Skill-Codex%20%7C%20Claude%20Code%20%7C%20Cursor-blue)](https://learn.chatgpt.com/docs/build-skills)
 
+<a href="assets/promo/ai-startup-skills-promo.mp4"><img src="assets/promo/cover.jpg" alt="AI 创业 Skill 包宣传片 · Promo film" width="720"></a>
+
+▶ 点击观看 35 秒宣传片 · Watch the 35-second film
+
 [中文](#zh) | [English](#en)
 
 </div>
