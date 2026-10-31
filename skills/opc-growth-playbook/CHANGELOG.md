@@ -12,6 +12,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - SKILL.md: the pricing & closing step is live; replaced "coming soon" with a link to step 6, opc-pricing-sales
 - README「一人公司工具包」表格：仓库链接统一为加粗的“英文名 · 中文名”（英文版只加粗英文名），与 ai-mvp-validation 写法一致
 - README toolkit tables: repository links now use bold names ("English name · 中文名" in the Chinese section, English name only in the English section), matching ai-mvp-validation
+- README 常见问题「支持海外平台吗？」：给提到的 ai-mvp-validation 加上链接（加粗“英文名 · 中文名”，注明第 1 步）
+- README FAQ "Overseas platforms?": the ai-mvp-validation mention now links to the repo (step 1)
 
 ## [1.0.0] - 2026-10-22
 
