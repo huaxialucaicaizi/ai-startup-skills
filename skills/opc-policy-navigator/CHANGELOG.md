@@ -7,7 +7,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- 2026-11-01 月度复核：国家级 CN-06（《关于健全创业支持体系提升创业质量的意见》）、上海临港 SH-LG-01、北京朝阳 BJ-CY-01 由「已核查但未收录」升为正式条目；补上 BJ-01「OPC 专项服务券」申报入口
+- 2026-11-01 monthly review: promoted national CN-06, Lingang SH-LG-01 and Chaoyang BJ-CY-01 from "checked but not included" to formal entries; added BJ-01 "OPC special service voucher" application path
+
+### Changed
+- 广州南沙区 OPC 服务专区：补充区政府网站说明页和市场监管局清单链接，仍因无资金条款和文号暂不收录
+- Guangzhou Nansha OPC service zone: added district government page and market-regulation list links; still not catalogued (no funding terms or document number)
+- 政策库信息核实日期更新为 2026-11-01
+- Policy database verification date updated to 2026-11-01
+
 ### Fixed
+- CI 链接检查：排除海淀区政务网站 zyk.bjhd.gov.cn（GitHub runner 上偶发网络错误，本地 curl 仍为 200）；政策条目本身未改
+- CI link check: excluded Haidian government host zyk.bjhd.gov.cn (intermittent network errors on GitHub runners; local curl still returns 200)
 - 上海政策库 SH-XH-02：补上官方页面标注的文号「徐市监营商〔2026〕91号」（原写“页面未标注文号”），2026-10-26 在徐汇区政府官网原文页核对
 - Shanghai DB SH-XH-02: added the document number shown on the official Xuhui District page (previously listed as "not shown")
 - CI 链接检查：排除 star-history 统计图接口（第三方服务间歇性返回 403，曾导致 main 分支 CI 失败）；政府官方链接仍照常检查
