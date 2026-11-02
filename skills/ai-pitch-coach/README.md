@@ -184,7 +184,7 @@ A：不是，是常见提问方向的归纳，不代表某个具体评审的真�
 A：可以参考，但本 skill 的结构和题库是按政府园区、OPC 社区、大赛设计的。
 
 **Q：讲稿里的政策从哪来？**<br>
-A：只用你提供的、带官方链接的政策原文；可以先用 opc-policy-navigator 查询。
+A：只用你提供的、带官方链接的政策原文；可以先用 [**OPC Policy Navigator · 一人公司政策导航**](https://github.com/huaxialucaicaizi/opc-policy-navigator) 查询。
 
 <a id="zh-contrib"></a>
 ### 贡献与反馈
@@ -379,7 +379,7 @@ A: No, they summarize common question directions.
 A: As a reference; the structure targets parks, OPC communities and competitions.
 
 **Q: Where do policy statements come from?**<br>
-A: Only official policy texts you provide, e.g. found via opc-policy-navigator.
+A: Only official policy texts you provide, e.g. found via [**OPC Policy Navigator**](https://github.com/huaxialucaicaizi/opc-policy-navigator).
 
 <a id="en-contrib"></a>
 ### Contributing & Feedback

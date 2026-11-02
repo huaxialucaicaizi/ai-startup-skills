@@ -12,6 +12,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - README "One-Person Company Toolkit" table: each repository link now shows its bold English name, matching the ai-startup-skills bundle
 - README「一人公司工具包」表格：去掉重复的仓库短名链接，改为直接用加粗名称作链接，与 opc-policy-navigator、ai-startup-skills 写法一致
 - README "One-Person Company Toolkit" table: the bold repository name is now the link itself (duplicate slug link removed), matching opc-policy-navigator and ai-startup-skills
+- README 常见问题「讲稿里的政策从哪来」：提到的第 3 步改为加粗名称链接 **OPC Policy Navigator · 一人公司政策导航**
+- README FAQ "Where do policy statements come from?": the step 3 mention is now a bold link to **OPC Policy Navigator**
 
 ## [1.0.0] - 2026-10-22
 

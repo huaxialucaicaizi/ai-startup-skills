@@ -25,8 +25,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `SKILL.md`: added a "Final Delivery Check" checklist consolidating existing rules (number labeling, no invented facts, listing `待补充` fields, audience and character limits, Financial Self-Check, Validation Evidence for AI products, removing private facts from public outputs), pointing to the relevant reference sections
 - `SKILL.md` 新增"上下游衔接"说明：本 skill 是一人公司工具包第 2 步，链接第 1 步 ai-mvp-validation、第 3 步 opc-policy-navigator、第 4 步 ai-pitch-coach 及合集 ai-startup-skills（均为可选配套 skill，非依赖）
 - `SKILL.md`: added a "Related Toolkit Steps" note: this skill is step 2 of the One-Person Company Toolkit, linking step 1 ai-mvp-validation, step 3 opc-policy-navigator, step 4 ai-pitch-coach, and the ai-startup-skills bundle (optional companion skills, not dependencies)
+- README 新增"所属工具包"章节：列出一人公司工具包全部 7 步及合集 ai-startup-skills，标明本仓库为第 2 步（其他步骤为可选配套，非依赖）；文件结构树补齐 `.github/`、CONTRIBUTING.md、CODE_OF_CONDUCT.md、SECURITY.md
+- README: added a "Part of the One-Person Company Toolkit" section listing all 7 steps plus the ai-startup-skills bundle, marking this repo as step 2 (other steps are optional companions, not dependencies); updated the file-structure tree to include `.github/`, CONTRIBUTING.md, CODE_OF_CONDUCT.md, and SECURITY.md
 
 ### Changed
+- 扩展虚构示例 `examples/incubator-application-summary.md`：按 `references/application-copy.md` 补全企业（团队）介绍、核心成员及简介、约 300 字项目内容摘要、基本情况表短摘要、官方表单默认值、材料清单，以及企业介绍在 100 字以内 / 100–200 字 / 200–400 字三档的填写示例（字数已核对；数字均为示例假设或 `待补充`）；同步更新 `examples/README.md` 与 README 中的条目说明
+- Expanded fictional example `examples/incubator-application-summary.md` into a complete filled-in demonstration of every section in `references/application-copy.md` (copy fields at stated lengths, official form defaults, materials checklist, and three character-limit tiers for the company intro; all numbers labeled as example assumptions or `待补充`); updated `examples/README.md` and the README file list
 - 修正安装说明：恢复 Codex 官方的 `$skill-installer` 命令（根据官方文档核实）
 - 更新 OpenAI Codex 规范链接：从失效的 `/codex/skills` 更新为新地址 `https://learn.chatgpt.com/docs/build-skills`
 - 添加"验证安装"部分，提供针对 Codex 的测试方法

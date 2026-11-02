@@ -191,7 +191,7 @@ A：暂不覆盖。
 ### 贡献与反馈
 
 - 发现问题或有补充：欢迎提 [Issue](https://github.com/huaxialucaicaizi/opc-registration-compliance/issues)
-- 提交 PR 前请运行 `python3 scripts/validate.py`
+- 提交 PR 前请运行 `python3 scripts/validate.py`（会检查 references / templates 中的链接是否均为 `*.gov.cn` 官方域名）
 - 补充或更新条款时，必须附中国政府网、中国人大网或主管部门官方原文链接，并写核实日期
 
 <a id="zh-author"></a>
@@ -387,7 +387,7 @@ A: Not covered.
 ### Contributing & Feedback
 
 - Found a problem or have something to add? Open an [Issue](https://github.com/huaxialucaicaizi/opc-registration-compliance/issues)
-- Run `python3 scripts/validate.py` before submitting a PR
+- Run `python3 scripts/validate.py` before submitting a PR (it checks that every link in references / templates is an official `*.gov.cn` domain)
 - Any added or updated article must link to the official source and include a verification date
 
 <a id="en-author"></a>

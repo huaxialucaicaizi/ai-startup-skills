@@ -44,7 +44,7 @@ Validate demand before you build or write a business plan.
 
 一个面向 **AI 工具、AI 应用、Agent** 的 Agent Skill：用**桌面调研 + 用户访谈 + 小预算 Meta（Facebook / Instagram）广告测试**验证 AI 产品想法，最后给出"继续 / 调整 / 放弃"的结论，并把过程整理成写 BP、申请园区、找投资时可以引用的证据。
 
-> 这是「一人公司工具包」的第 1 步。下一步写 BP 可用 [business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill)。
+> 这是「一人公司工具包」的第 1 步。下一步写 BP 可用第 2 步 [**Business Plan Skill · 商业计划书**](https://github.com/huaxialucaicaizi/business-plan-skill)。
 
 **痛点**
 - 做 AI 产品很快，但做完才发现没人用、没人付钱
@@ -252,7 +252,7 @@ A：遵循 Agent Skills 规范（SKILL.md），可在 Codex 中用 `$skill-insta
 
 An Agent Skill for **AI tools, AI apps and Agents**: validate your AI product idea with **desk research + user interviews + small-budget Meta (Facebook / Instagram) ad tests**, get a continue / adjust / stop verdict, and turn the process into evidence you can cite in a business plan, incubator application or investor conversation.
 
-> Step 1 of the "One-Person Company Toolkit". Next step: write your BP with [business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill).
+> Step 1 of the "One-Person Company Toolkit". Next step: write your BP with step 2, [**Business Plan Skill**](https://github.com/huaxialucaicaizi/business-plan-skill).
 
 **The problem**
 - Building an AI product is fast; finding out nobody uses or pays for it comes later and costs more
