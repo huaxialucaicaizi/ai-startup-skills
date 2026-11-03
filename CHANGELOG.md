@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- License now also forbids listing this project (or derivative works) on third-party AI products, Skill stores, plugin marketplaces, or similar channels without prior written permission from @huaxialucaicaizi (许可证新增：未经作者事先书面许可，不得将本项目上架到第三方 AI 产品、Skill 商店等分发渠道)
 - License changed from MIT to a non-commercial license; republication or commercial use requires contacting @huaxialucaicaizi (许可证由 MIT 改为非商业许可；转载或商用需联系 @huaxialucaicaizi)
 - Sync `skills/` copies with their standalone repos' `main` via `scripts/sync.sh` (2026-11-03): only `business-plan-skill` moved (`c0159f3` → `50a07ca`, source PR #12) — added fictional `examples/team-and-competitive-advantage.md` plus `examples/README.md`, README, and CHANGELOG; the other 6 copies already matched current `main`.
 - Sync `skills/` copies with their standalone repos' `main` via `scripts/sync.sh` (2026-11-02): only `opc-policy-navigator` moved (`32217e3` → `c28e608`, source PR #9) — policy DB adds CN-06 / SH-LG-01 / BJ-CY-01, BJ-01 申报入口, README/SKILL/CHANGELOG/template date updates to 2026-11-01, and BJ-01 全角括号链接拆分; source-repo CI ignore files are not copied by sync; the other 6 copies already matched current `main`.
