@@ -222,7 +222,7 @@ A：遵循 Agent Skills 规范（SKILL.md），可在 Codex 中用 `$skill-insta
 <a id="zh-license"></a>
 ### 许可
 
-本项目禁止商业用途；个人学习与非商业使用可免费使用。如转载请通过 GitHub 联系作者 [@huaxialucaicaizi](https://github.com/huaxialucaicaizi)。详见 [LICENSE](./LICENSE)。
+本项目禁止商业用途；个人学习与非商业使用可免费使用。未经作者事先许可，不得将本项目上架到第三方 AI 产品或 Skill 商店。如转载或上架请通过 GitHub 联系作者 [@huaxialucaicaizi](https://github.com/huaxialucaicaizi)。详见 [LICENSE](./LICENSE)。
 
 [↑ 返回顶部](#top)
 
@@ -430,6 +430,6 @@ If this skill helps you, a Star ⭐ is appreciated.
 <a id="en-license"></a>
 ### License
 
-Non-commercial use only. Free for personal learning and non-commercial use. For republication, contact [@huaxialucaicaizi](https://github.com/huaxialucaicaizi) on GitHub. See [LICENSE](./LICENSE).
+Non-commercial use only. Free for personal learning and non-commercial use. Listing on third-party AI products or Skill stores requires prior author permission. For republication or listing permission, contact [@huaxialucaicaizi](https://github.com/huaxialucaicaizi) on GitHub. See [LICENSE](./LICENSE).
 
 [↑ Back to top](#top)
