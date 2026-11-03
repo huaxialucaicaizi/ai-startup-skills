@@ -8,7 +8,7 @@
 Prepare 3- and 5-minute pitches and judge Q&A for China government parks, OPC communities and startup competitions.
 
 [![CI](https://github.com/huaxialucaicaizi/ai-pitch-coach/actions/workflows/ci.yml/badge.svg)](https://github.com/huaxialucaicaizi/ai-pitch-coach/actions/workflows/ci.yml)
-[![License: MIT](https://img.shields.io/github/license/huaxialucaicaizi/ai-pitch-coach)](LICENSE)
+[![Non-Commercial / 非商业](https://img.shields.io/badge/License-Non--Commercial%20%2F%20非商业-blue.svg)](./LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/huaxialucaicaizi/ai-pitch-coach?style=social)](https://github.com/huaxialucaicaizi/ai-pitch-coach)
 [![Agent Skill](https://img.shields.io/badge/Agent%20Skill-Codex%20%7C%20Cursor-blue)](https://learn.chatgpt.com/docs/build-skills)
 
@@ -209,7 +209,7 @@ A：只用你提供的、带官方链接的政策原文；可以先用 [**OPC Po
 <a id="zh-license"></a>
 ### 许可
 
-[MIT](LICENSE)
+本项目禁止商业用途；个人学习与非商业使用可免费使用。如转载请通过 GitHub 联系作者 [@huaxialucaicaizi](https://github.com/huaxialucaicaizi)。详见 [LICENSE](./LICENSE)。
 
 [↑ 返回顶部](#top)
 
@@ -404,6 +404,6 @@ If this skill helps you, a Star ⭐ is appreciated.
 <a id="en-license"></a>
 ### License
 
-[MIT](LICENSE)
+Non-commercial use only. Free for personal learning and non-commercial use. For republication, contact [@huaxialucaicaizi](https://github.com/huaxialucaicaizi) on GitHub. See [LICENSE](./LICENSE).
 
 [↑ Back to top](#top)
