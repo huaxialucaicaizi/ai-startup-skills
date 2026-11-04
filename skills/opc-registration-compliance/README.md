@@ -8,7 +8,7 @@
 Sole proprietorship, individual business or one-shareholder company? How to register in China and stay compliant — official sources only, not legal advice.
 
 [![CI](https://github.com/huaxialucaicaizi/opc-registration-compliance/actions/workflows/ci.yml/badge.svg)](https://github.com/huaxialucaicaizi/opc-registration-compliance/actions/workflows/ci.yml)
-[![License: MIT](https://img.shields.io/github/license/huaxialucaicaizi/opc-registration-compliance)](LICENSE)
+[![Non-Commercial / 非商业](https://img.shields.io/badge/License-Non--Commercial%20%2F%20非商业-orange)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/huaxialucaicaizi/opc-registration-compliance?style=social)](https://github.com/huaxialucaicaizi/opc-registration-compliance)
 [![Agent Skill](https://img.shields.io/badge/Agent%20Skill-Codex%20%7C%20Cursor-blue)](https://learn.chatgpt.com/docs/build-skills)
 
@@ -191,7 +191,7 @@ A：暂不覆盖。
 ### 贡献与反馈
 
 - 发现问题或有补充：欢迎提 [Issue](https://github.com/huaxialucaicaizi/opc-registration-compliance/issues)
-- 提交 PR 前请运行 `python3 scripts/validate.py`
+- 提交 PR 前请运行 `python3 scripts/validate.py`（会检查 references / templates 中的链接是否均为 `*.gov.cn` 官方域名）
 - 补充或更新条款时，必须附中国政府网、中国人大网或主管部门官方原文链接，并写核实日期
 
 <a id="zh-author"></a>
@@ -210,7 +210,7 @@ A：暂不覆盖。
 <a id="zh-license"></a>
 ### 许可
 
-[MIT](LICENSE)
+本项目禁止商业用途；个人学习与非商业使用可免费使用。如转载请通过 GitHub 联系作者 [@huaxialucaicaizi](https://github.com/huaxialucaicaizi)。将本项目上架或收录到第三方 AI 产品 / Skill 商店须事先获得作者许可。详见 [LICENSE](./LICENSE)。
 
 [↑ 返回顶部](#top)
 
@@ -387,7 +387,7 @@ A: Not covered.
 ### Contributing & Feedback
 
 - Found a problem or have something to add? Open an [Issue](https://github.com/huaxialucaicaizi/opc-registration-compliance/issues)
-- Run `python3 scripts/validate.py` before submitting a PR
+- Run `python3 scripts/validate.py` before submitting a PR (it checks that every link in references / templates is an official `*.gov.cn` domain)
 - Any added or updated article must link to the official source and include a verification date
 
 <a id="en-author"></a>
@@ -406,6 +406,6 @@ If this skill helps you, a Star ⭐ is appreciated.
 <a id="en-license"></a>
 ### License
 
-[MIT](LICENSE)
+Non-commercial use only. Free for personal learning and non-commercial use. For republication, contact [@huaxialucaicaizi](https://github.com/huaxialucaicaizi) on GitHub. Listing on third-party AI products or Skill stores requires prior author permission. See [LICENSE](./LICENSE).
 
 [↑ Back to top](#top)

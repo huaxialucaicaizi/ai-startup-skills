@@ -8,7 +8,7 @@
 Cold-start growth on Xiaohongshu, Douyin and WeChat Channels — funnel, experiments, content calendar, scripts, using only your own data.
 
 [![CI](https://github.com/huaxialucaicaizi/opc-growth-playbook/actions/workflows/ci.yml/badge.svg)](https://github.com/huaxialucaicaizi/opc-growth-playbook/actions/workflows/ci.yml)
-[![License: MIT](https://img.shields.io/github/license/huaxialucaicaizi/opc-growth-playbook)](LICENSE)
+[![Non-Commercial / 非商业](https://img.shields.io/badge/License-Non--Commercial%20%2F%20非商业-blue.svg)](./LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/huaxialucaicaizi/opc-growth-playbook?style=social)](https://github.com/huaxialucaicaizi/opc-growth-playbook)
 [![Agent Skill](https://img.shields.io/badge/Agent%20Skill-Codex%20%7C%20Cursor-blue)](https://learn.chatgpt.com/docs/build-skills)
 
@@ -188,7 +188,7 @@ A：可以，内容日历和脚本会按"不出镜"（录屏、图文、配音�
 A：可选。不投流就只做自然流量；投流时预算由你定，并按实验卡记录效果。
 
 **Q：支持海外平台吗？**<br>
-A：本 skill 以小红书、抖音、视频号为主；海外广告测试可参考 ai-mvp-validation 中的 Meta 广告验证。
+A：本 skill 以小红书、抖音、视频号为主；海外广告测试可参考第 1 步 [**AI MVP Validation · AI 产品 MVP 验证**](https://github.com/huaxialucaicaizi/ai-mvp-validation) 中的 Meta 广告验证。
 
 **Q：平台规则会变怎么办？**<br>
 A：本 skill 不复述未核实的平台规则，请以各平台官方规则为准。
@@ -216,7 +216,7 @@ A：本 skill 不复述未核实的平台规则，请以各平台官方规则为
 <a id="zh-license"></a>
 ### 许可
 
-[MIT](LICENSE)
+本项目禁止商业用途；个人学习与非商业使用可免费使用。如转载请通过 GitHub 联系作者 [@huaxialucaicaizi](https://github.com/huaxialucaicaizi)。上架到第三方 AI 产品或 Skill 商店须事先取得作者许可。详见 [LICENSE](./LICENSE)。
 
 [↑ 返回顶部](#top)
 
@@ -390,7 +390,7 @@ A: Yes, plans can use screen recordings, image posts and voice-over.
 A: Optional; you set the budget and log results with experiment cards.
 
 **Q: Overseas platforms?**<br>
-A: Focus is China; for Meta ad tests see ai-mvp-validation.
+A: Focus is China; for Meta ad tests see step 1, [**AI MVP Validation**](https://github.com/huaxialucaicaizi/ai-mvp-validation).
 
 **Q: Platform rules change?**<br>
 A: Not restated here; follow the official rules of each platform.
@@ -418,6 +418,6 @@ If this skill helps you, a Star ⭐ is appreciated.
 <a id="en-license"></a>
 ### License
 
-[MIT](LICENSE)
+Non-commercial use only. Free for personal learning and non-commercial use. For republication, contact [@huaxialucaicaizi](https://github.com/huaxialucaicaizi) on GitHub. Listing on third-party AI products or Skill stores requires prior author permission. See [LICENSE](./LICENSE).
 
 [↑ Back to top](#top)

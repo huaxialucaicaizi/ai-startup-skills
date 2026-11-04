@@ -8,7 +8,7 @@
 Validate demand before you build or write a business plan.
 
 [![CI](https://github.com/huaxialucaicaizi/ai-mvp-validation/actions/workflows/ci.yml/badge.svg)](https://github.com/huaxialucaicaizi/ai-mvp-validation/actions/workflows/ci.yml)
-[![License: MIT](https://img.shields.io/github/license/huaxialucaicaizi/ai-mvp-validation)](LICENSE)
+[![Non-Commercial / 非商业](https://img.shields.io/badge/License-Non--Commercial%20%2F%20%E9%9D%9E%E5%95%86%E4%B8%9A-orange)](./LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/huaxialucaicaizi/ai-mvp-validation?style=social)](https://github.com/huaxialucaicaizi/ai-mvp-validation)
 [![Agent Skill](https://img.shields.io/badge/Agent%20Skill-Codex%20%7C%20Cursor-blue)](https://learn.chatgpt.com/docs/build-skills)
 
@@ -44,7 +44,7 @@ Validate demand before you build or write a business plan.
 
 一个面向 **AI 工具、AI 应用、Agent** 的 Agent Skill：用**桌面调研 + 用户访谈 + 小预算 Meta（Facebook / Instagram）广告测试**验证 AI 产品想法，最后给出"继续 / 调整 / 放弃"的结论，并把过程整理成写 BP、申请园区、找投资时可以引用的证据。
 
-> 这是「一人公司工具包」的第 1 步。下一步写 BP 可用 [business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill)。
+> 这是「一人公司工具包」的第 1 步。下一步写 BP 可用第 2 步 [**Business Plan Skill · 商业计划书**](https://github.com/huaxialucaicaizi/business-plan-skill)。
 
 **痛点**
 - 做 AI 产品很快，但做完才发现没人用、没人付钱
@@ -222,7 +222,7 @@ A：遵循 Agent Skills 规范（SKILL.md），可在 Codex 中用 `$skill-insta
 <a id="zh-license"></a>
 ### 许可
 
-[MIT](LICENSE)
+本项目禁止商业用途；个人学习与非商业使用可免费使用。上架到第三方 AI 产品或 Skill 商店须事先获得作者许可。如转载请通过 GitHub 联系作者 [@huaxialucaicaizi](https://github.com/huaxialucaicaizi)。详见 [LICENSE](./LICENSE)。
 
 [↑ 返回顶部](#top)
 
@@ -252,7 +252,7 @@ A：遵循 Agent Skills 规范（SKILL.md），可在 Codex 中用 `$skill-insta
 
 An Agent Skill for **AI tools, AI apps and Agents**: validate your AI product idea with **desk research + user interviews + small-budget Meta (Facebook / Instagram) ad tests**, get a continue / adjust / stop verdict, and turn the process into evidence you can cite in a business plan, incubator application or investor conversation.
 
-> Step 1 of the "One-Person Company Toolkit". Next step: write your BP with [business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill).
+> Step 1 of the "One-Person Company Toolkit". Next step: write your BP with step 2, [**Business Plan Skill**](https://github.com/huaxialucaicaizi/business-plan-skill).
 
 **The problem**
 - Building an AI product is fast; finding out nobody uses or pays for it comes later and costs more
@@ -430,6 +430,6 @@ If this skill helps you, a Star ⭐ is appreciated.
 <a id="en-license"></a>
 ### License
 
-[MIT](LICENSE)
+Non-commercial use only. Free for personal learning and non-commercial use. Listing on third-party AI products or Skill stores requires prior author permission. For republication, contact [@huaxialucaicaizi](https://github.com/huaxialucaicaizi) on GitHub. See [LICENSE](./LICENSE).
 
 [↑ Back to top](#top)

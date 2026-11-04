@@ -8,7 +8,7 @@
 Find China startup policies, subsidies and OPC community support you can apply for — official sources only.
 
 [![CI](https://github.com/huaxialucaicaizi/opc-policy-navigator/actions/workflows/ci.yml/badge.svg)](https://github.com/huaxialucaicaizi/opc-policy-navigator/actions/workflows/ci.yml)
-[![License: MIT](https://img.shields.io/github/license/huaxialucaicaizi/opc-policy-navigator)](LICENSE)
+[![Non-Commercial / 非商业](https://img.shields.io/badge/License-Non--Commercial-blue)](./LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/huaxialucaicaizi/opc-policy-navigator?style=social)](https://github.com/huaxialucaicaizi/opc-policy-navigator)
 [![Agent Skill](https://img.shields.io/badge/Agent%20Skill-Codex%20%7C%20Cursor-blue)](https://learn.chatgpt.com/docs/build-skills)
 
@@ -118,7 +118,7 @@ git clone https://github.com/huaxialucaicaizi/opc-policy-navigator.git
 | 需确认条件 | 小微企业和个体工商户税费政策（国家级） | 以公告原文为准 | 注册后按主体类型和纳税情况确认 |
 | 只用于文案"政策契合" | 上海市 2026 年度 OPC 社区申报通知 | 市级 OPC 定义：以人工智能驱动经营活动、员工 10 人及以下 | 面向社区运营方，不是对企业的直接资助 |
 
-> 以上信息以主管部门最新政策和申报通知为准。信息核实日期：2026-10-22。
+> 以上信息以主管部门最新政策和申报通知为准。信息核实日期：2026-11-01。
 
 <a id="zh-workflow"></a>
 ### 工作流
@@ -144,8 +144,8 @@ git clone https://github.com/huaxialucaicaizi/opc-policy-navigator.git
 SKILL.md                              # 主流程
 references/
   policy-db-national.md               # 国家级政策库
-  policy-db-beijing.md                # 北京（含海淀）
-  policy-db-shanghai.md               # 上海（含杨浦、徐汇）
+  policy-db-beijing.md                # 北京（含海淀、朝阳）
+  policy-db-shanghai.md               # 上海（含杨浦、徐汇、临港）
   policy-db-guangzhou.md              # 广东省级 + 广州（含海珠、白云）
   policy-db-shenzhen.md               # 深圳（含南山）
   policy-db-other-cities.md           # 杭州
@@ -174,7 +174,7 @@ scripts/validate.py
 ### 常见问题
 
 **Q：政策库多久更新？**<br>
-A：政策库标注了信息核实日期（当前为 2026-10-22）。政策会调整，使用前请到官方链接确认最新版本。
+A：政策库标注了信息核实日期（当前为 2026-11-01）。政策会调整，使用前请到官方链接确认最新版本。
 
 **Q：我的城市没有收录怎么办？**<br>
 A：skill 会如实告知，只给国家级结果，并给出中国政府网政策文件库、国家政务服务平台等官方查询入口。
@@ -211,7 +211,7 @@ A：欢迎提 Issue 或 PR，并附政策原文的官方政府网站链接。
 <a id="zh-license"></a>
 ### 许可
 
-[MIT](LICENSE)
+本项目禁止商业用途；个人学习与非商业使用可免费使用。将本项目上架或收录到第三方 AI 产品、Skill 商店须事先获得作者许可。如转载或申请许可，请通过 GitHub 联系作者 [@huaxialucaicaizi](https://github.com/huaxialucaicaizi)。详见 [LICENSE](./LICENSE)。
 
 [↑ 返回顶部](#top)
 
@@ -315,7 +315,7 @@ I'm in Yangpu, Shanghai, building an AI resume tool alone, not yet registered, p
 | Needs confirmation | National small-business tax relief | Per the official announcement | Confirm after registration, by entity type |
 | For "policy fit" text only | Shanghai 2026 OPC community notice | City-level OPC definition: AI-driven, 10 or fewer employees | Targets community operators, not direct funding |
 
-> Subject to the latest official policies and notices. Verified: 2026-10-22.
+> Subject to the latest official policies and notices. Verified: 2026-11-01.
 
 <a id="en-workflow"></a>
 ### Workflow
@@ -341,8 +341,8 @@ I'm in Yangpu, Shanghai, building an AI resume tool alone, not yet registered, p
 SKILL.md                              # main workflow
 references/
   policy-db-national.md               # national policies
-  policy-db-beijing.md                # Beijing (incl. Haidian)
-  policy-db-shanghai.md               # Shanghai (incl. Yangpu, Xuhui)
+  policy-db-beijing.md                # Beijing (incl. Haidian, Chaoyang)
+  policy-db-shanghai.md               # Shanghai (incl. Yangpu, Xuhui, Lingang)
   policy-db-guangzhou.md              # Guangdong + Guangzhou
   policy-db-shenzhen.md               # Shenzhen (incl. Nanshan)
   policy-db-other-cities.md           # Hangzhou
@@ -371,7 +371,7 @@ scripts/validate.py
 ### FAQ
 
 **Q: How current is the database?**<br>
-A: Each file has a verification date (currently 2026-10-22). Always check the official link for the latest version.
+A: Each file has a verification date (currently 2026-11-01). Always check the official link for the latest version.
 
 **Q: My city is not covered?**<br>
 A: You get national results plus official search portals; no local policies are made up.
@@ -408,6 +408,6 @@ If this skill helps you, a Star ⭐ is appreciated.
 <a id="en-license"></a>
 ### License
 
-[MIT](LICENSE)
+Non-commercial use only. Free for personal learning and non-commercial use. Listing this project on third-party AI products or Skill stores requires prior author permission. For republication or permission, contact [@huaxialucaicaizi](https://github.com/huaxialucaicaizi) on GitHub. See [LICENSE](./LICENSE).
 
 [↑ Back to top](#top)

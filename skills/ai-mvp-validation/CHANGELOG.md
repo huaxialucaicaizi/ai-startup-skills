@@ -8,10 +8,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
+- 许可证补充：未经作者事先书面许可，不得将本项目上架、收录或分发到第三方 AI 产品、Skill 商店或类似渠道
+- License: added a clause forbidding listing this project on third-party AI products / skill stores without prior written permission
+- 许可证由 MIT 改为非商业许可；转载或商用须联系 @huaxialucaicaizi
+- License changed from MIT to non-commercial; republication or commercial use requires contacting @huaxialucaicaizi
 - README「一人公司工具包」表格：仓库链接改为加粗的中英文名（如 **AI Pitch Coach · 路演教练**），与 ai-startup-skills 合集一致；英文版只用英文名
 - README toolkit tables: repo links now show bold display names, matching the ai-startup-skills bundle
 - README「不适合」：把"之后的增长步骤"改为链接到第 5 步 **OPC Growth Playbook · 一人公司增长获客**
 - README "Not a fit": the "later growth step" now links to step 5, OPC Growth Playbook
+- README 开头「下一步」提示：`business-plan-skill` 改为加粗的第 2 步 **Business Plan Skill · 商业计划书**，与工具包表格写法一致
+- README intro "next step" note: now shows step 2 as **Business Plan Skill** instead of the raw repo slug
 
 ## [1.0.0] - 2026-10-22
 

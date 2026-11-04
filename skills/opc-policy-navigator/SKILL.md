@@ -23,8 +23,8 @@ description: Use when a one-person company (OPC/一人公司) or early-stage fou
 
      | 用户所在地 | 读取文件 |
      |---|---|
-     | 北京（含海淀） | `references/policy-db-beijing.md` |
-     | 上海（含杨浦、徐汇） | `references/policy-db-shanghai.md` |
+     | 北京（含海淀、朝阳） | `references/policy-db-beijing.md` |
+     | 上海（含杨浦、徐汇、临港） | `references/policy-db-shanghai.md` |
      | 广州（含海珠、白云） | `references/policy-db-guangzhou.md` |
      | 深圳（含南山） | `references/policy-db-shenzhen.md` + `policy-db-guangzhou.md` 中的广东省级 GD-01 |
      | 广东省其他城市 | `policy-db-guangzhou.md` 中的 GD-01 |
@@ -52,7 +52,7 @@ description: Use when a one-person company (OPC/一人公司) or early-stage fou
 - 政策库中"背景资料""已核查但未收录"部分只能作为背景说明，不能当作政策条款或申报依据引用。
 - 政策库标注"已截止"的批次，归入"需确认条件"，提示用户关注下一批次通知。
 - 方向性文件（政策库注明"不含直接申报的资金条款"）只能用于文案的"政策契合"部分，不能列为可申资金。
-- 每条政策必须附官方政府网站链接和"信息核实日期：2026-10-22"（以政策库标注为准）。
+- 每条政策必须附官方政府网站链接和"信息核实日期：2026-11-01"（以政策库标注为准）。
 - 政策有有效期且会调整，每次输出末尾必须提示："以上信息以主管部门最新政策和申报通知为准。"
 - 政策原文是"最高 X 万元"的，不要写成"可获得 X 万元"。
 - 用户事实不清楚时写"待补充"，不要替用户判断"一定符合"。

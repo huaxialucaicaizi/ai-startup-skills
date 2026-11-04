@@ -8,7 +8,7 @@
 Prepare 3- and 5-minute pitches and judge Q&A for China government parks, OPC communities and startup competitions.
 
 [![CI](https://github.com/huaxialucaicaizi/ai-pitch-coach/actions/workflows/ci.yml/badge.svg)](https://github.com/huaxialucaicaizi/ai-pitch-coach/actions/workflows/ci.yml)
-[![License: MIT](https://img.shields.io/github/license/huaxialucaicaizi/ai-pitch-coach)](LICENSE)
+[![Non-Commercial / 非商业](https://img.shields.io/badge/License-Non--Commercial%20%2F%20非商业-blue.svg)](./LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/huaxialucaicaizi/ai-pitch-coach?style=social)](https://github.com/huaxialucaicaizi/ai-pitch-coach)
 [![Agent Skill](https://img.shields.io/badge/Agent%20Skill-Codex%20%7C%20Cursor-blue)](https://learn.chatgpt.com/docs/build-skills)
 
@@ -184,7 +184,7 @@ A：不是，是常见提问方向的归纳，不代表某个具体评审的真�
 A：可以参考，但本 skill 的结构和题库是按政府园区、OPC 社区、大赛设计的。
 
 **Q：讲稿里的政策从哪来？**<br>
-A：只用你提供的、带官方链接的政策原文；可以先用 opc-policy-navigator 查询。
+A：只用你提供的、带官方链接的政策原文；可以先用 [**OPC Policy Navigator · 一人公司政策导航**](https://github.com/huaxialucaicaizi/opc-policy-navigator) 查询。
 
 <a id="zh-contrib"></a>
 ### 贡献与反馈
@@ -209,7 +209,7 @@ A：只用你提供的、带官方链接的政策原文；可以先用 opc-polic
 <a id="zh-license"></a>
 ### 许可
 
-[MIT](LICENSE)
+本项目禁止商业用途；个人学习与非商业使用可免费使用。上架、收录或分发到第三方 AI 产品、Skill 商店或类似渠道须事先获得作者许可。如转载请通过 GitHub 联系作者 [@huaxialucaicaizi](https://github.com/huaxialucaicaizi)。详见 [LICENSE](./LICENSE)。
 
 [↑ 返回顶部](#top)
 
@@ -379,7 +379,7 @@ A: No, they summarize common question directions.
 A: As a reference; the structure targets parks, OPC communities and competitions.
 
 **Q: Where do policy statements come from?**<br>
-A: Only official policy texts you provide, e.g. found via opc-policy-navigator.
+A: Only official policy texts you provide, e.g. found via [**OPC Policy Navigator**](https://github.com/huaxialucaicaizi/opc-policy-navigator).
 
 <a id="en-contrib"></a>
 ### Contributing & Feedback
@@ -404,6 +404,6 @@ If this skill helps you, a Star ⭐ is appreciated.
 <a id="en-license"></a>
 ### License
 
-[MIT](LICENSE)
+Non-commercial use only. Free for personal learning and non-commercial use. Listing this project on third-party AI products or Skill stores requires prior author permission. For republication, contact [@huaxialucaicaizi](https://github.com/huaxialucaicaizi) on GitHub. See [LICENSE](./LICENSE).
 
 [↑ Back to top](#top)

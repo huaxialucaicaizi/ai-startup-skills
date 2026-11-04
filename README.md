@@ -8,7 +8,7 @@
 Seven agent skills for building an AI product as a one-person company, from idea validation to registration, in one install.
 
 [![CI](https://github.com/huaxialucaicaizi/ai-startup-skills/actions/workflows/ci.yml/badge.svg)](https://github.com/huaxialucaicaizi/ai-startup-skills/actions/workflows/ci.yml)
-[![License: MIT](https://img.shields.io/github/license/huaxialucaicaizi/ai-startup-skills)](LICENSE)
+[![Non-Commercial / 非商业](https://img.shields.io/badge/License-Non--Commercial%20%2F%20非商业-blue.svg)](./LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/huaxialucaicaizi/ai-startup-skills?style=social)](https://github.com/huaxialucaicaizi/ai-startup-skills)
 [![Agent Skill](https://img.shields.io/badge/Agent%20Skill-Codex%20%7C%20Claude%20Code%20%7C%20Cursor-blue)](https://learn.chatgpt.com/docs/build-skills)
 
@@ -214,7 +214,7 @@ A：验证、BP、路演、定价的思路通用；政策导航、注册与合�
 <a id="zh-license"></a>
 ### 许可
 
-[MIT](LICENSE)
+本项目禁止商业用途；个人学习与非商业使用可免费使用。未经作者事先许可，不得将本项目上架到第三方 AI 产品或 Skill 商店。如转载或上架请通过 GitHub 联系作者 [@huaxialucaicaizi](https://github.com/huaxialucaicaizi)。详见 [LICENSE](./LICENSE)。
 
 [↑ 返回顶部](#top)
 
@@ -412,6 +412,6 @@ If this toolkit helps you, a Star ⭐ is appreciated.
 <a id="en-license"></a>
 ### License
 
-[MIT](LICENSE)
+Non-commercial use only. Free for personal learning and non-commercial use. Listing on third-party AI products or Skill stores requires prior author permission. For republication or listing permission, contact [@huaxialucaicaizi](https://github.com/huaxialucaicaizi) on GitHub. See [LICENSE](./LICENSE).
 
 [↑ Back to top](#top)

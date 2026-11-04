@@ -8,7 +8,7 @@
 Price your AI product or service, design packages, write quotes and close deals — with real costs and compliant price marking.
 
 [![CI](https://github.com/huaxialucaicaizi/opc-pricing-sales/actions/workflows/ci.yml/badge.svg)](https://github.com/huaxialucaicaizi/opc-pricing-sales/actions/workflows/ci.yml)
-[![License: MIT](https://img.shields.io/github/license/huaxialucaicaizi/opc-pricing-sales)](LICENSE)
+[![Non-Commercial / 非商业](https://img.shields.io/badge/License-Non--Commercial-orange.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/huaxialucaicaizi/opc-pricing-sales?style=social)](https://github.com/huaxialucaicaizi/opc-pricing-sales)
 [![Agent Skill](https://img.shields.io/badge/Agent%20Skill-Codex%20%7C%20Cursor-blue)](https://learn.chatgpt.com/docs/build-skills)
 
@@ -44,7 +44,7 @@ Price your AI product or service, design packages, write quotes and close deals 
 
 一个帮卖 AI 产品或服务的一人公司**定价和成交**的 Agent Skill：用成本法（含模型 / API 调用费）算底价，结合竞品和客户价值定价格区间，设计 2–3 档套餐，生成报价单，给出私域成交流程和异议处理，并按《明码标价和禁止价格欺诈规定》检查价格写法。
 
-> 这是「一人公司工具包」的第 6 步。下一步注册与合规可用 [opc-registration-compliance](https://github.com/huaxialucaicaizi/opc-registration-compliance)。
+> 这是「一人公司工具包」的第 6 步。下一步注册与合规可用 [**OPC Registration & Compliance · 一人公司注册与合规**](https://github.com/huaxialucaicaizi/opc-registration-compliance)。
 
 **痛点**
 - 不敢定价，或者随便定了个数，算下来其实在亏
@@ -215,7 +215,7 @@ A：本 skill 不提供法律或财税意见，请咨询专业人士或主管部
 <a id="zh-license"></a>
 ### 许可
 
-[MIT](LICENSE)
+本项目禁止商业用途；个人学习与非商业使用可免费使用。如转载请通过 GitHub 联系作者 [@huaxialucaicaizi](https://github.com/huaxialucaicaizi)。上架到第三方 AI 产品或 Skill 商店须事先取得作者许可。详见 [LICENSE](./LICENSE)。
 
 [↑ 返回顶部](#top)
 
@@ -245,7 +245,7 @@ A：本 skill 不提供法律或财税意见，请咨询专业人士或主管部
 
 An Agent Skill for one-person companies selling AI products or services: compute a price floor from real costs (including model/API fees), set a range using competitors and customer value, design 2–3 tiers, draft a quote, follow a closing SOP with objection handling, and check price marking against China rules.
 
-> Step 6 of the "One-Person Company Toolkit". Next step: register and stay compliant with [opc-registration-compliance](https://github.com/huaxialucaicaizi/opc-registration-compliance).
+> Step 6 of the "One-Person Company Toolkit". Next step: register and stay compliant with [**OPC Registration & Compliance**](https://github.com/huaxialucaicaizi/opc-registration-compliance).
 
 **The problem**
 - Afraid to set a price, or picked one that actually loses money
@@ -416,6 +416,6 @@ If this skill helps you, a Star ⭐ is appreciated.
 <a id="en-license"></a>
 ### License
 
-[MIT](LICENSE)
+Non-commercial use only. Free for personal learning and non-commercial use. For republication, contact [@huaxialucaicaizi](https://github.com/huaxialucaicaizi) on GitHub. Listing on third-party AI products or Skill stores requires prior author permission. See [LICENSE](./LICENSE).
 
 [↑ Back to top](#top)

@@ -8,10 +8,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
+- 许可证补充：未经作者事先书面许可，不得将本项目上架到第三方 AI 产品、Skill 商店或类似分发渠道；授权联系 @huaxialucaicaizi
+- License: added a clause forbidding listing this project on third-party AI products, skill stores, or similar channels without prior written permission from the author (@huaxialucaicaizi)
+- 许可证由 MIT 改为非商业许可；转载或商用需联系 @huaxialucaicaizi
+- License changed from MIT to a non-commercial license; republication or commercial use requires contacting @huaxialucaicaizi
 - SKILL.md「可选衔接」：定价与成交步骤已上线，去掉"即将推出"，改为链接第 6 步 opc-pricing-sales
 - SKILL.md: the pricing & closing step is live; replaced "coming soon" with a link to step 6, opc-pricing-sales
 - README「一人公司工具包」表格：仓库链接统一为加粗的“英文名 · 中文名”（英文版只加粗英文名），与 ai-mvp-validation 写法一致
 - README toolkit tables: repository links now use bold names ("English name · 中文名" in the Chinese section, English name only in the English section), matching ai-mvp-validation
+- README 常见问题「支持海外平台吗？」：给提到的 ai-mvp-validation 加上链接（加粗“英文名 · 中文名”，注明第 1 步）
+- README FAQ "Overseas platforms?": the ai-mvp-validation mention now links to the repo (step 1)
 
 ## [1.0.0] - 2026-10-22
 

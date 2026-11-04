@@ -1,6 +1,7 @@
 # Business Plan Skill / 商业计划书 Skill
 
 [![CI](https://github.com/huaxialucaicaizi/business-plan-skill/actions/workflows/ci.yml/badge.svg)](https://github.com/huaxialucaicaizi/business-plan-skill/actions/workflows/ci.yml)
+[![Non-Commercial / 非商业](https://img.shields.io/badge/License-Non--Commercial%20%2F%20非商业-red.svg)](./LICENSE)
 
 **为初创项目和创业团队提供结构化、可复用的商业计划书、路演材料和孵化器申请文案工作流。**
 
@@ -135,13 +136,33 @@ Use the business-plan-skill to organize the pitch deck narrative, then call code
 See the [`examples/`](./examples/) directory for fictional project sample outputs:
 
 - **商业计划书大纲** / Business plan outline: [`bp-outline.md`](./examples/bp-outline.md)
-- **孵化器申请摘要（约 300 字）** / Incubator application summary (~300 characters): [`incubator-application-summary.md`](./examples/incubator-application-summary.md)
+- **孵化器申请文案填写示例** / Incubator application copy (filled-in fields, form defaults, materials checklist, character-limit tiers): [`incubator-application-summary.md`](./examples/incubator-application-summary.md)
 - **路演 PPT 页面大纲** / Pitch deck slide outline: [`pitch-deck-outline.md`](./examples/pitch-deck-outline.md)
 - **关键假设、财务推导与想法验证** / Key assumptions, financial derivation, and validation evidence: [`financial-assumptions-and-validation.md`](./examples/financial-assumptions-and-validation.md)
+- **团队与竞争优势填写示例** / Team and competitive advantage (founder intro, capability pillars, team, advantage, claim-softening table): [`team-and-competitive-advantage.md`](./examples/team-and-competitive-advantage.md)
 
 **注意：所有示例内容均为虚构，仅用于演示 skill 使用方法。**
 
 **Note: All example content is fictional and for demonstration purposes only.**
+
+---
+
+## 所属工具包 / Part of the One-Person Company Toolkit
+
+本 skill 是「一人公司工具包」7 步中的第 2 步；其他步骤都是可选配套 skill，不是依赖，单独使用本 skill 即可。
+
+This skill is step 2 of the 7-step One-Person Company Toolkit. The other steps are optional companion skills, not dependencies — this skill works on its own.
+
+| 步骤 / Step | Skill | 用途 / Purpose |
+|---|---|---|
+| 1 | [**AI MVP Validation · AI 产品 MVP 验证**](https://github.com/huaxialucaicaizi/ai-mvp-validation) | 先验证有没有人要，再写代码、写 BP / Validate demand before building or writing a BP |
+| 2 | [**Business Plan Skill · 商业计划书**](https://github.com/huaxialucaicaizi/business-plan-skill) | 写 BP、路演材料、孵化器和大赛申请（本仓库 / this repo） / Business plans, pitch materials, incubator and competition applications |
+| 3 | [**OPC Policy Navigator · 一人公司政策导航**](https://github.com/huaxialucaicaizi/opc-policy-navigator) | 查能申请的政策、补贴、算力券、OPC 社区 / Find applicable policies, subsidies, compute vouchers, and OPC communities |
+| 4 | [**AI Pitch Coach · 路演教练**](https://github.com/huaxialucaicaizi/ai-pitch-coach) | 园区、孵化器、创业大赛的路演稿和评委问答 / Pitch scripts and judge Q&A for parks, incubators, and startup competitions |
+| 5 | [**OPC Growth Playbook · 一人公司增长获客**](https://github.com/huaxialucaicaizi/opc-growth-playbook) | 小红书、抖音、视频号冷启动获客 / Cold-start customer acquisition on Xiaohongshu, Douyin, and WeChat Channels |
+| 6 | [**OPC Pricing & Sales · 定价与成交**](https://github.com/huaxialucaicaizi/opc-pricing-sales) | 定价、套餐、报价单、私域成交 / Pricing, packages, quotes, and private-traffic sales |
+| 7 | [**OPC Registration & Compliance · 一人公司注册与合规**](https://github.com/huaxialucaicaizi/opc-registration-compliance) | 选主体类型、注册清单、年报与合规日历 / Entity type, registration checklist, annual reports, and compliance calendar |
+| 合集 / Bundle | [**AI Startup Skills · AI 创业 Skill 包**](https://github.com/huaxialucaicaizi/ai-startup-skills) | 一次装全套 / Install all 7 at once |
 
 ---
 
@@ -153,8 +174,19 @@ See the [`examples/`](./examples/) directory for fictional project sample output
 business-plan-skill/
 ├── SKILL.md                          # Skill 入口文件，定义触发条件和工作流
 ├── README.md                         # 使用说明
-├── LICENSE                           # MIT License
+├── LICENSE                           # Non-Commercial License / 非商业许可
 ├── CHANGELOG.md                      # 版本更新日志
+├── CONTRIBUTING.md                   # 贡献指南
+├── CODE_OF_CONDUCT.md                # 行为准则（Contributor Covenant 2.1）
+├── SECURITY.md                       # 安全问题报告方式
+├── .github/
+│   ├── workflows/
+│   │   └── ci.yml                    # CI：校验 frontmatter、openai.yaml 和 Markdown 链接
+│   ├── ISSUE_TEMPLATE/
+│   │   ├── config.yml
+│   │   ├── new-scenario.md           # 新场景建议模板
+│   │   └── output-problem.md         # 输出问题反馈模板
+│   └── PULL_REQUEST_TEMPLATE.md      # PR 模板
 ├── agents/
 │   └── openai.yaml                   # Codex skill 元数据
 ├── references/                       # 可复用的参考文档
@@ -166,7 +198,8 @@ business-plan-skill/
     ├── bp-outline.md
     ├── financial-assumptions-and-validation.md
     ├── incubator-application-summary.md
-    └── pitch-deck-outline.md
+    ├── pitch-deck-outline.md
+    └── team-and-competitive-advantage.md
 ```
 
 ### 核心原则 / Core Principles
@@ -264,9 +297,9 @@ Contributions are welcome! Please submit an Issue or Pull Request to help improv
 
 ## 许可证 / License
 
-本项目采用 [MIT License](./LICENSE) 开源。
+本项目禁止商业用途；个人学习与非商业使用可免费使用。上架/收录到第三方 AI 产品或 Skill 商店需事先联系作者。如转载请通过 GitHub 联系作者 [@huaxialucaicaizi](https://github.com/huaxialucaicaizi)。详见 [LICENSE](./LICENSE)。
 
-This project is licensed under the [MIT License](./LICENSE).
+Non-commercial use only. Free for personal learning and non-commercial use. Listing or including this project on a third-party AI product or skill store requires prior contact with the author. For republication, contact [@huaxialucaicaizi](https://github.com/huaxialucaicaizi) on GitHub. See [LICENSE](./LICENSE).
 
 **Copyright (c) 2026 Rui Huang (huaxialucaicaizi)**
 

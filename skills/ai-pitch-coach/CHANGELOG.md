@@ -8,10 +8,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
+- LICENSE / README：新增未经许可不得上架第三方 AI 产品、Skill 商店的条款；授权联系仍为 @huaxialucaicaizi
+- LICENSE / README: added a clause forbidding listing on third-party AI products or skill stores without prior author permission; contact remains @huaxialucaicaizi
+- 许可证由 MIT 改为非商业许可；转载或商用需联系 @huaxialucaicaizi
+- License changed from MIT to a non-commercial license; republication or commercial use requires contacting @huaxialucaicaizi
 - README「一人公司工具包」表格：每个仓库链接后附加粗的英文名 · 中文名，命名与 ai-startup-skills 合集一致
 - README "One-Person Company Toolkit" table: each repository link now shows its bold English name, matching the ai-startup-skills bundle
 - README「一人公司工具包」表格：去掉重复的仓库短名链接，改为直接用加粗名称作链接，与 opc-policy-navigator、ai-startup-skills 写法一致
 - README "One-Person Company Toolkit" table: the bold repository name is now the link itself (duplicate slug link removed), matching opc-policy-navigator and ai-startup-skills
+- README 常见问题「讲稿里的政策从哪来」：提到的第 3 步改为加粗名称链接 **OPC Policy Navigator · 一人公司政策导航**
+- README FAQ "Where do policy statements come from?": the step 3 mention is now a bold link to **OPC Policy Navigator**
 
 ## [1.0.0] - 2026-10-22
 
