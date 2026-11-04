@@ -8,7 +8,7 @@
 Sole proprietorship, individual business or one-shareholder company? How to register in China and stay compliant — official sources only, not legal advice.
 
 [![CI](https://github.com/huaxialucaicaizi/opc-registration-compliance/actions/workflows/ci.yml/badge.svg)](https://github.com/huaxialucaicaizi/opc-registration-compliance/actions/workflows/ci.yml)
-[![Non-Commercial / 非商业](https://img.shields.io/badge/License-Non--Commercial%20%2F%20非商业-blue.svg)](./LICENSE)
+[![Non-Commercial / 非商业](https://img.shields.io/badge/License-Non--Commercial%20%2F%20非商业-orange)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/huaxialucaicaizi/opc-registration-compliance?style=social)](https://github.com/huaxialucaicaizi/opc-registration-compliance)
 [![Agent Skill](https://img.shields.io/badge/Agent%20Skill-Codex%20%7C%20Cursor-blue)](https://learn.chatgpt.com/docs/build-skills)
 
@@ -210,7 +210,7 @@ A：暂不覆盖。
 <a id="zh-license"></a>
 ### 许可
 
-本项目禁止商业用途；个人学习与非商业使用可免费使用。未经作者事先许可，不得将本项目上架到第三方 AI 产品或 Skill 商店。如转载或上架请通过 GitHub 联系作者 [@huaxialucaicaizi](https://github.com/huaxialucaicaizi)。详见 [LICENSE](./LICENSE)。
+本项目禁止商业用途；个人学习与非商业使用可免费使用。如转载请通过 GitHub 联系作者 [@huaxialucaicaizi](https://github.com/huaxialucaicaizi)。将本项目上架或收录到第三方 AI 产品 / Skill 商店须事先获得作者许可。详见 [LICENSE](./LICENSE)。
 
 [↑ 返回顶部](#top)
 
@@ -406,6 +406,6 @@ If this skill helps you, a Star ⭐ is appreciated.
 <a id="en-license"></a>
 ### License
 
-Non-commercial use only. Free for personal learning and non-commercial use. Listing on third-party AI products or Skill stores requires prior author permission. For republication or listing permission, contact [@huaxialucaicaizi](https://github.com/huaxialucaicaizi) on GitHub. See [LICENSE](./LICENSE).
+Non-commercial use only. Free for personal learning and non-commercial use. For republication, contact [@huaxialucaicaizi](https://github.com/huaxialucaicaizi) on GitHub. Listing on third-party AI products or Skill stores requires prior author permission. See [LICENSE](./LICENSE).
 
 [↑ Back to top](#top)
