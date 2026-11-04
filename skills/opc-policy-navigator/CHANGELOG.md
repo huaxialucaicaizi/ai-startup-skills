@@ -12,6 +12,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 2026-11-01 monthly review: promoted national CN-06, Lingang SH-LG-01 and Chaoyang BJ-CY-01 from "checked but not included" to formal entries; added BJ-01 "OPC special service voucher" application path
 
 ### Changed
+- 许可证补充：未经作者事先书面许可，不得将本项目上架、收录或分发到第三方 AI 产品、Skill 商店或类似渠道；许可联系 GitHub @huaxialucaicaizi
+- License: added a clause forbidding listing this project on third-party AI products / skill stores without prior written permission; contact GitHub @huaxialucaicaizi
+- 许可证由 MIT 改为非商业许可；转载或商用须通过 GitHub 联系 @huaxialucaicaizi
+- License changed from MIT to non-commercial; republication or commercial use requires contacting @huaxialucaicaizi
 - 广州南沙区 OPC 服务专区：补充区政府网站说明页和市场监管局清单链接，仍因无资金条款和文号暂不收录
 - Guangzhou Nansha OPC service zone: added district government page and market-regulation list links; still not catalogued (no funding terms or document number)
 - 政策库信息核实日期更新为 2026-11-01
