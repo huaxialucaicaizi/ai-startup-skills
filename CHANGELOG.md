@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- Add Japanese README (`README.ja.md`) and a language switcher link in the root README (新增日文 README，并在根 README 语言切换中加入日本語链接)
 - Sync all 7 `skills/` copies with their standalone repos' `main` via `scripts/sync.sh` (2026-11-04): README and CHANGELOG catch up the standalone license-docs follow-ups after this bundle's LICENSE-only copy in #11 (`business-plan-skill` CONTRIBUTING.md also moved). Source: `ai-mvp-validation` `239c395` (#11), `business-plan-skill` `50a07ca` → `564d63b` (#16), `opc-policy-navigator` `3000a33` (#11), `ai-pitch-coach` `4255a12` (#10), `opc-growth-playbook` `2c8a57c` (#8), `opc-pricing-sales` `bbbd69d` (#10), `opc-registration-compliance` `5accfb2` (#10). LICENSE files already matched; `.github/` and `.lycheeignore` are not copied by sync.
 - License now also forbids listing this project (or derivative works) on third-party AI products, Skill stores, plugin marketplaces, or similar channels without prior written permission from @huaxialucaicaizi (许可证新增：未经作者事先书面许可，不得将本项目上架到第三方 AI 产品、Skill 商店等分发渠道)
 - License changed from MIT to a non-commercial license; republication or commercial use requires contacting @huaxialucaicaizi (许可证由 MIT 改为非商业许可；转载或商用需联系 @huaxialucaicaizi)

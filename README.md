@@ -16,7 +16,7 @@ Seven agent skills for building an AI product as a one-person company, from idea
 
 ▶ 点击观看 35 秒宣传片 · Watch the 35-second film
 
-[中文](#zh) | [English](#en)
+[中文](#zh) | [English](#en) | [日本語](./README.ja.md)
 
 </div>
 
