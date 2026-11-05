@@ -44,7 +44,7 @@ Find China startup policies, subsidies and OPC community support you can apply f
 
 一个面向中国一人公司（OPC）和早期创业者的 Agent Skill：按**城市 / 区 + 赛道 + 阶段**，先比对国家级政策、再比对地方政策（北京、上海、广州、深圳及杭州），把结果分成"大概率可申 / 需确认条件 / 暂不适用"三档，并给出官方链接、材料清单和申报文案框架。
 
-> 这是「一人公司工具包」的第 3 步。上一步写 BP 可用 [business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill)；下一步路演可用 [ai-pitch-coach](https://github.com/huaxialucaicaizi/ai-pitch-coach)。
+> 这是「一人公司工具包」的第 3 步。上一步写 BP 可用 [**Business Plan Skill · 商业计划书**](https://github.com/huaxialucaicaizi/business-plan-skill)；下一步路演可用 [**AI Pitch Coach · 路演教练**](https://github.com/huaxialucaicaizi/ai-pitch-coach)。尚未注册时，可同时看第 7 步 [**OPC Registration & Compliance · 一人公司注册与合规**](https://github.com/huaxialucaicaizi/opc-registration-compliance)（是否必须先登记，以各政策原文为准）。
 
 **痛点**
 - 政策文件多、分散在各级政府网站，不知道哪些和自己有关
@@ -241,7 +241,7 @@ A：欢迎提 Issue 或 PR，并附政策原文的官方政府网站链接。
 
 An Agent Skill for one-person companies (OPC) and early-stage founders in China: given city / district, industry and stage, it matches national policies first, then local ones (Beijing, Shanghai, Guangzhou, Shenzhen, plus Hangzhou), sorts them into "likely eligible / needs confirmation / not applicable", and outputs official links, a materials checklist and an application outline.
 
-> Step 3 of the "One-Person Company Toolkit". Previous step: [business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill). Next step: rehearse your pitch with [ai-pitch-coach](https://github.com/huaxialucaicaizi/ai-pitch-coach).
+> Step 3 of the "One-Person Company Toolkit". Previous step: [**Business Plan Skill**](https://github.com/huaxialucaicaizi/business-plan-skill). Next step: rehearse your pitch with [**AI Pitch Coach**](https://github.com/huaxialucaicaizi/ai-pitch-coach). If you are not registered yet, step 7 [**OPC Registration & Compliance**](https://github.com/huaxialucaicaizi/opc-registration-compliance) can run in parallel (whether registration is required depends on each policy's official text).
 
 **The problem**
 - Policies are scattered across many government sites

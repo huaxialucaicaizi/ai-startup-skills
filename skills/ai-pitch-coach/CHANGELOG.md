@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
+- SKILL.md 新增「可选衔接」：有第 1 / 2 / 3 步产出时，分别用于验证进度、讲稿材料和「诉求与落地」；硬性规则里的政策查询补上 opc-policy-navigator 链接
+- SKILL.md: add optional companion-step section (steps 1–3 feed validation progress, script materials, and the ask/commitment close); link opc-policy-navigator in the policy rule
 - LICENSE / README：新增未经许可不得上架第三方 AI 产品、Skill 商店的条款；授权联系仍为 @huaxialucaicaizi
 - LICENSE / README: added a clause forbidding listing on third-party AI products or skill stores without prior author permission; contact remains @huaxialucaicaizi
 - 许可证由 MIT 改为非商业许可；转载或商用需联系 @huaxialucaicaizi

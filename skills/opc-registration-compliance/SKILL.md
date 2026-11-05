@@ -27,7 +27,7 @@ description: Use when a solo founder in mainland China asks which business entit
 
 ### 2. 注册步骤与材料清单
 用 `references/registration-steps.md`：名称、主体类型、经营范围、住所、注册资本（出资）、法定代表人 / 负责人等登记事项，以及申请材料和办理时限。
-- 住所：只能登记一个住所；工位注册、集中登记地等便利措施属于地方规定，只引用有官方原文的政策（可用 opc-policy-navigator 查询），没有就写"以当地登记机关要求为准"。
+- 住所：只能登记一个住所；工位注册、集中登记地等便利措施属于地方规定，只引用有官方原文的政策（可用第 3 步 [opc-policy-navigator](https://github.com/huaxialucaicaizi/opc-policy-navigator) 查询），没有就写"以当地登记机关要求为准"。
 - 经营范围：按登记机关公布的经营项目分类标准填写；涉及许可项目的，提示先确认审批要求。
 
 ### 3. 注册后合规日历
@@ -41,8 +41,9 @@ description: Use when a solo founder in mainland China asks which business entit
 
 ## 可选衔接（不依赖其他 skill）
 
-- 注册地选择和园区便利政策可配合 opc-policy-navigator 查询（只用有官方链接的政策）。
-- 主体信息可回填 BP 的"公司基本信息"，未注册时写"拟注册"，不要写成已注册。
+本 skill 可单独使用。如果你同时在用「一人公司工具包」的其他步骤：
+- 注册地选择和园区便利政策可配合第 3 步 [opc-policy-navigator](https://github.com/huaxialucaicaizi/opc-policy-navigator)（一人公司政策导航）查询（只用有官方链接的政策）。
+- 主体信息可回填第 2 步 [business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill)（商业计划书）的"公司基本信息"；未注册时写"拟注册"，不要写成已注册。
 
 ## 硬性规则
 

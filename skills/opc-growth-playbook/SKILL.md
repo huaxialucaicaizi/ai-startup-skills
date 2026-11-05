@@ -47,8 +47,8 @@ description: Use when a one-person company (OPC/一人公司) or solo founder in
 
 ## 可选衔接（不依赖其他 skill）
 
-- 有想法验证结论时，直接用其中胜出的卖点和目标人群。
-- 有 BP 时，读取定位与目标客户，保持口径一致；增长数据可回填 BP 的"进展"（标注"实际数据"及统计时间）。
+- 有想法验证结论（第 1 步 [ai-mvp-validation](https://github.com/huaxialucaicaizi/ai-mvp-validation)）时，直接用其中胜出的卖点和目标人群。
+- 有 BP（第 2 步 [business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill)）时，读取定位与目标客户，保持口径一致；增长数据可回填 BP 的"进展"（标注"实际数据"及统计时间）。
 - 成交环节的定价、报价、私域成交可配合第 6 步定价与成交：[opc-pricing-sales](https://github.com/huaxialucaicaizi/opc-pricing-sales)。
 
 ## 硬性规则

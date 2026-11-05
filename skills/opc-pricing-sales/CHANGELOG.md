@@ -20,6 +20,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - SKILL.md「可选衔接」：第 5 步增长获客已上线，去掉"即将推出"，并为第 1、2、5 步补上仓库链接
 - SKILL.md "Optional hand-offs": step 5 (growth) is live; replaced "coming soon" and linked steps 1, 2 and 5
+- SKILL.md「可选衔接」补上第 7 步注册与合规链接（README 已写「下一步」，skill 正文此前未衔接）
+- SKILL.md "Optional hand-offs": link step 7 (registration & compliance), which README already names as the next step
 
 ## [1.0.0] - 2026-10-22
 
