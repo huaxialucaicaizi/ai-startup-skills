@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
+- SKILL.md「可选衔接」：为已提到的想法验证、商业计划书补上第 1 步 ai-mvp-validation、第 2 步 business-plan-skill 仓库链接
+- SKILL.md "Optional hand-offs": the already-mentioned validation and BP notes now link to step 1 ai-mvp-validation and step 2 business-plan-skill
 - 许可证补充：未经作者事先书面许可，不得将本项目上架到第三方 AI 产品、Skill 商店或类似分发渠道；授权联系 @huaxialucaicaizi
 - License: added a clause forbidding listing this project on third-party AI products, skill stores, or similar channels without prior written permission from the author (@huaxialucaicaizi)
 - 许可证由 MIT 改为非商业许可；转载或商用需联系 @huaxialucaicaizi

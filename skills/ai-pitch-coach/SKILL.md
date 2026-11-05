@@ -24,11 +24,18 @@ description: Use when a founder needs to prepare a live roadshow or defense (路
 5. 按需加入 `references/story-modules.md` 中的叙事模块：验证进度页、分阶段路线页、先本地验证→区域复制（如用户提供了已核实的本地政策，与之挂钩）。插在"进展"或"商业模式与进展"、"诉求与落地"段落中，不额外加时长。
 6. 输出排练清单（`speech-templates.md` 末尾），按 `templates/roadshow-output.md` 输出。
 
+## 可选衔接（不依赖其他 skill）
+
+本 skill 可单独使用。如果你同时在用「一人公司工具包」的其他步骤：
+- 有想法验证结论（第 1 步 [ai-mvp-validation](https://github.com/huaxialucaicaizi/ai-mvp-validation)）时，用其中的「已验证 / 尚未验证 / 下一步」写入进展段落和验证进度页；待验证的不要写成已验证。
+- 有 BP（第 2 步 [business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill) 或任何 BP 工具）时，以 BP 为讲稿主材料，并与口头介绍保持口径一致。
+- 有政策匹配结果（第 3 步 [opc-policy-navigator](https://github.com/huaxialucaicaizi/opc-policy-navigator)）时，把带官方链接的政策用于「诉求与落地」和落地类答辩；没有官方出处的不写进讲稿。
+
 ## 硬性规则
 
 - 逐字稿中的数字、客户、奖项、融资只能来自用户材料；没有就写"待补充"。
 - 不教用户夸大或回避事实；被问到短板时，给出"承认 + 已有应对 + 下一步计划"的诚实回答结构。
-- 政策相关的说法只能来自用户提供的、带官方链接的政策原文（可用 opc-policy-navigator 查询）；没有官方出处的政策说法不写进讲稿。
+- 政策相关的说法只能来自用户提供的、带官方链接的政策原文（可用 [opc-policy-navigator](https://github.com/huaxialucaicaizi/opc-policy-navigator) 查询）；没有官方出处的政策说法不写进讲稿。
 
 ## 输出模板
 

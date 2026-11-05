@@ -30,6 +30,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - CI link check: excluded the star-history chart API (third-party, intermittently returns 403 and failed CI on main); official government links are still checked
 
 ### Changed
+- SKILL.md「可选衔接」与 README 开篇：补上第 7 步注册与合规（可与本步并行），并为路演教练补上仓库链接；README 开篇的工具包链接改为加粗项目名，与表格一致
+- SKILL.md optional handoff and README intro: added step 7 registration (can run in parallel) and a link to the pitch coach; README intro toolkit links now use bold names, matching the tables
 - README「一人公司工具包」表格：仓库链接改为加粗的中英文名（如 **AI Pitch Coach · 路演教练**），与 ai-startup-skills 合集一致；英文表格只用英文名
 - README toolkit tables: repo links now use bold project names, matching the ai-startup-skills bundle (English table uses English names only)
 

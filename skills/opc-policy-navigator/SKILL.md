@@ -43,8 +43,10 @@ description: Use when a one-person company (OPC/一人公司) or early-stage fou
 ## 可选衔接（不依赖其他 skill）
 
 本 skill 可单独使用。如果你同时在用「一人公司工具包」的其他步骤：
-- 写 BP 时，可把"政策要点"交给 BP 工具（如 [business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill)）做政策契合段落。
-- 准备路演时，可把申报对象和"与政策方向的契合"段落用于讲稿的"诉求与落地"部分。
+- 第 2 步（之前）：写 BP 时，可把本 skill 给出的"政策要点"交给 [**Business Plan Skill · 商业计划书**](https://github.com/huaxialucaicaizi/business-plan-skill) 做政策契合段落。
+- 第 4 步（之后）：准备路演时，可把申报对象和"与政策方向的契合"段落交给 [**AI Pitch Coach · 路演教练**](https://github.com/huaxialucaicaizi/ai-pitch-coach) 用于讲稿的"诉求与落地"部分。
+- 第 7 步（可并行）：尚未注册、或还在选主体类型时，可用 [**OPC Registration & Compliance · 一人公司注册与合规**](https://github.com/huaxialucaicaizi/opc-registration-compliance) 对照注册清单。是否必须先登记，以各政策原文的适用对象为准。
+- 全套 7 步：[**AI Startup Skills · AI 创业 Skill 包**](https://github.com/huaxialucaicaizi/ai-startup-skills)
 
 ## 硬性规则
 

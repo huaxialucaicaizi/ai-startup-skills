@@ -70,7 +70,7 @@ description: Use when a founder (especially a one-person company / 一人公司)
 
 ## 可选衔接（不依赖其他 skill）
 
-本 skill 可单独使用。结论为"继续"时，可输出 **BP 素材包**；如需写 BP，可选用 [business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill) 或任何 BP 工具：
+本 skill 是「一人公司工具包」第 1 步，可单独使用，不依赖其他 skill。结论为"继续"时，可输出 **BP 素材包**；如需写 BP，可选用第 2 步 [**Business Plan Skill · 商业计划书**](https://github.com/huaxialucaicaizi/business-plan-skill) 或任何 BP 工具：
 
 | 验证产出 | 用在 BP / 申报材料的哪里 |
 |---|---|
@@ -84,6 +84,12 @@ description: Use when a founder (especially a one-person company / 一人公司)
 | 一人可行性、AI 工具分工 | 团队 |
 
 结论为"调整"时，组合公式和结论句式同样可用于路演的"验证进度"说明。"仍缺的证据"可作为评委或投资人可能追问的问题清单。
+
+验证报告整理好后，其他可选配套（均非依赖）：
+
+- 申请政策或补贴：第 3 步 [**OPC Policy Navigator · 一人公司政策导航**](https://github.com/huaxialucaicaizi/opc-policy-navigator)
+- 路演稿与评委问答：第 4 步 [**AI Pitch Coach · 路演教练**](https://github.com/huaxialucaicaizi/ai-pitch-coach)
+- 全套 7 步：[**AI Startup Skills · AI 创业 Skill 包**](https://github.com/huaxialucaicaizi/ai-startup-skills)
 
 ## 硬性规则
 

@@ -12,6 +12,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `scripts/validate.py` now fails if any link in `references/` or `templates/` is not an official government domain (`*.gov.cn`)
 
 ### Changed
+- SKILL.md「可选衔接」：为第 2 步商业计划书、第 3 步政策导航补上步骤编号和仓库链接；正文中的政策导航引用同步加上链接
+- SKILL.md optional hand-offs: added step numbers and GitHub links for business-plan-skill and opc-policy-navigator
 - 许可补充：未经作者事先书面许可，不得将本项目上架、收录或分发到第三方 AI 产品、Skill 商店或类似渠道；授权联系仍为 @huaxialucaicaizi
 - License: listing this project on third-party AI products, skill stores, or similar channels requires prior written permission from the author; contact remains @huaxialucaicaizi
 - 许可证由 MIT 改为非商业许可；转载或商用须联系 @huaxialucaicaizi
