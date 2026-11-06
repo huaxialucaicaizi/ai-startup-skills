@@ -12,6 +12,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 2026-11-01 monthly review: promoted national CN-06, Lingang SH-LG-01 and Chaoyang BJ-CY-01 from "checked but not included" to formal entries; added BJ-01 "OPC special service voucher" application path
 
 ### Changed
+- SKILL.md 工作流与 README 工作流 / 原则：补上「方向性文件只列入文案『政策契合』、不作为可申资金」，与输出模板和示例表一致
+- SKILL.md workflow and README workflow / principles: directional documents go under "policy-fit text only", not as fundable items, matching the output template and example table
 - 许可证补充：未经作者事先书面许可，不得将本项目上架、收录或分发到第三方 AI 产品、Skill 商店或类似渠道；许可联系 GitHub @huaxialucaicaizi
 - License: added a clause forbidding listing this project on third-party AI products / skill stores without prior written permission; contact GitHub @huaxialucaicaizi
 - 许可证由 MIT 改为非商业许可；转载或商用须通过 GitHub 联系 @huaxialucaicaizi
