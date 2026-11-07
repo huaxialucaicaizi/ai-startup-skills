@@ -114,7 +114,7 @@ git clone https://github.com/huaxialucaicaizi/opc-registration-compliance.git
 
 | 方面 | 个体工商户 | 一人有限公司 |
 |---|---|---|
-| 责任承担 | 本 skill 未收录原文，待核实 | 以认缴出资额为限（公司法第四条）；不能证明财产独立的，对公司债务承担连带责任（第二十三条第三款） |
+| 责任承担 | 个人经营的以个人财产承担；家庭经营或无法区分的以家庭财产承担（民法典第五十六条） | 以认缴出资额为限（公司法第四条）；不能证明财产独立的，对公司债务承担连带责任（第二十三条第三款） |
 | 组织机构 | — | 不设股东会，股东决定书面化（第六十条） |
 | 出资 | — | 五年内缴足认缴出资（第四十七条） |
 | 税负 | 以税务机关最新规定为准 | 以税务机关最新规定为准 |
@@ -310,7 +310,7 @@ I'm in Guangzhou doing AI design outsourcing alone, mostly for companies. May ap
 
 | Aspect | Individual business | One-shareholder company |
 |---|---|---|
-| Liability | Not in this skill's verified sources (TBD) | Limited to subscribed capital (Company Law Art. 4); joint liability if asset independence can't be proven (Art. 23(3)) |
+| Liability | Borne with personal property if personally operated; with household property if family-operated or indistinguishable (Civil Code Art. 56) | Limited to subscribed capital (Company Law Art. 4); joint liability if asset independence can't be proven (Art. 23(3)) |
 | Governance | — | No shareholders' meeting; written decisions (Art. 60) |
 | Capital | — | Subscribed capital paid within 5 years (Art. 47) |
 | Tax | Per tax authority | Per tax authority |

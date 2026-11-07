@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
+- 评委题库补上题号格式（A1、B7）和按场合优先类别；SKILL.md 第 3 步改为按该文首选题，与 README 示例对齐
+- Judge Q&A bank: add IDs (A1, B7) and occasion-priority categories; SKILL.md step 3 now follows that intro, matching the README examples
 - SKILL.md 新增「可选衔接」：有第 1 / 2 / 3 步产出时，分别用于验证进度、讲稿材料和「诉求与落地」；硬性规则里的政策查询补上 opc-policy-navigator 链接
 - SKILL.md: add optional companion-step section (steps 1–3 feed validation progress, script materials, and the ask/commitment close); link opc-policy-navigator in the policy rule
 - LICENSE / README：新增未经许可不得上架第三方 AI 产品、Skill 商店的条款；授权联系仍为 @huaxialucaicaizi

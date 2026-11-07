@@ -18,6 +18,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - README intro "next step" link to step 7 now uses the bold repo name, matching the toolkit table
 
 ### Fixed
+- 输出模板「价格合规检查」原先只有 4 项，漏了服务标价、折扣基准、网页一致；现与 `references/price-compliance.md` 的 7 项及官方依据对齐
+- Output template compliance checklist had 4 items and omitted service price marking, discount base, and page consistency; now matches the 7 checks in `references/price-compliance.md`
 - SKILL.md「可选衔接」：第 5 步增长获客已上线，去掉"即将推出"，并为第 1、2、5 步补上仓库链接
 - SKILL.md "Optional hand-offs": step 5 (growth) is live; replaced "coming soon" and linked steps 1, 2 and 5
 - SKILL.md「可选衔接」补上第 7 步注册与合规链接（README 已写「下一步」，skill 正文此前未衔接）
