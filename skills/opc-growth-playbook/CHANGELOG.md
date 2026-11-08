@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
+- templates/weekly-review.md 漏斗表补上「复购 / 转介绍」行，与 SKILL 工作流、references/growth-funnel.md 对齐（没有数据仍写「未记录」）
+- templates/weekly-review.md funnel table: added the "repeat / referral" row to match the SKILL workflow and growth-funnel.md (still write "not recorded" when there is no data)
 - SKILL.md 开篇「只做五件事」漏了合规检查；改为与工作流一致的六件事（定位确认、漏斗与指标、实验池、内容日历与脚本、合规检查、周复盘）
 - SKILL.md intro listed five tasks and omitted the compliance check; now six tasks, matching the workflow (positioning, funnel, experiments, calendar & scripts, compliance, weekly review)
 - SKILL.md「可选衔接」：为已提到的想法验证、商业计划书补上第 1 步 ai-mvp-validation、第 2 步 business-plan-skill 仓库链接

@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
+- `references/pain-and-feasibility.md`：为「AI 产品特有判断」补上自查清单（三项风险等级、未评估按高风险且无应对、合规只引用已核实链接）
+- `references/pain-and-feasibility.md`: add a self-check for the AI-product assessment section (risk levels, unevaluated overlap treated as high risk, official-link-only compliance)
 - `references/pain-and-feasibility.md`：标识办法链接从网信办「发布说明」改为含办法全文的官方通知原文
 - `references/pain-and-feasibility.md`: the 标识办法 link now points to the CAC notice with the full official text, not the press release
 - 许可证补充：未经作者事先书面许可，不得将本项目上架、收录或分发到第三方 AI 产品、Skill 商店或类似渠道
