@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
+- SKILL.md 开篇「只做五件事」漏了合规检查；改为与工作流一致的六件事（定位确认、漏斗与指标、实验池、内容日历与脚本、合规检查、周复盘）
+- SKILL.md intro listed five tasks and omitted the compliance check; now six tasks, matching the workflow (positioning, funnel, experiments, calendar & scripts, compliance, weekly review)
 - SKILL.md「可选衔接」：为已提到的想法验证、商业计划书补上第 1 步 ai-mvp-validation、第 2 步 business-plan-skill 仓库链接
 - SKILL.md "Optional hand-offs": the already-mentioned validation and BP notes now link to step 1 ai-mvp-validation and step 2 business-plan-skill
 - 许可证补充：未经作者事先书面许可，不得将本项目上架到第三方 AI 产品、Skill 商店或类似分发渠道；授权联系 @huaxialucaicaizi

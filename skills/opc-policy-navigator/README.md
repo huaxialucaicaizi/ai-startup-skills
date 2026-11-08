@@ -125,7 +125,7 @@ git clone https://github.com/huaxialucaicaizi/opc-policy-navigator.git
 
 1. **收集信息**：城市 / 区、赛道、阶段、创始人情况（缺的标"待补充"）
 2. **先国家、再地方**：国家级政策库 → 省 / 市 / 区政策库；未收录城市如实告知
-3. **三档分类**：大概率可申 / 需确认条件 / 暂不适用，并写明理由
+3. **三档分类**：大概率可申 / 需确认条件 / 暂不适用，并写明理由。政策库标明「方向性文件」或「不含直接申报的资金条款」的，单独列入「只用于文案"政策契合"」，不作为可申资金
 4. **材料清单**：已有证明 / 用户自述 / 待补充
 5. **申报文案框架**：按模板输出，正文可用已有 BP
 
@@ -134,6 +134,7 @@ git clone https://github.com/huaxialucaicaizi/opc-policy-navigator.git
 
 - **不编造政策、金额、条件、截止日期**：政策库没有的回答"未收录"
 - **"最高 X 万元"不写成"可获得 X 万元"**
+- **方向性文件只用于文案「政策契合」**，不列为可申资金
 - **每条政策附官方链接和核实日期**；政策会调整，以主管部门最新通知为准
 - **不构成法律或财税意见，不代办申报**
 
@@ -322,7 +323,7 @@ I'm in Yangpu, Shanghai, building an AI resume tool alone, not yet registered, p
 
 1. **Collect**: city / district, industry, stage, founder profile (missing items marked "TBD")
 2. **National first, then local**; uncovered cities are stated honestly
-3. **Three tiers** with reasons
+3. **Three tiers** with reasons. Directional documents (no direct funding terms) go under "for policy-fit text only", not as fundable items
 4. **Materials checklist**
 5. **Application outline** from the template
 
@@ -331,6 +332,7 @@ I'm in Yangpu, Shanghai, building an AI resume tool alone, not yet registered, p
 
 - **No invented policies, amounts, conditions or deadlines**
 - **"Up to X" is never written as "you get X"**
+- **Directional documents are for "policy fit" wording only**, never listed as fundable items
 - **Every policy has an official link and verification date**; always defer to the latest official notice
 - **Not legal or tax advice; does not file on your behalf**
 
