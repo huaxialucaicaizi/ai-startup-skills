@@ -23,6 +23,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - README 常见问题「讲稿里的政策从哪来」：提到的第 3 步改为加粗名称链接 **OPC Policy Navigator · 一人公司政策导航**
 - README FAQ "Where do policy statements come from?": the step 3 mention is now a bold link to **OPC Policy Navigator**
 
+### Fixed
+- 输出模板排练清单原先只有空白勾选，现与 `references/speech-templates.md` 末尾 6 项对齐
+- Output template rehearsal checklist was a blank stub; now matches the 6 items at the end of `references/speech-templates.md`
+
 ## [1.0.0] - 2026-10-22
 
 ### Added

@@ -12,6 +12,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 2026-11-01 monthly review: promoted national CN-06, Lingang SH-LG-01 and Chaoyang BJ-CY-01 from "checked but not included" to formal entries; added BJ-01 "OPC special service voucher" application path
 
 ### Changed
+- 输出模板与 SKILL.md 工作流对齐：需确认条件 / 暂不适用改为表格并补上文号和官方链接；材料清单补上「用户自述、待提供证明」
+- Output template aligned with SKILL.md: needs-confirmation and not-applicable sections are tables with document numbers and official links; materials checklist adds the self-reported state
 - SKILL.md 工作流与 README 工作流 / 原则：补上「方向性文件只列入文案『政策契合』、不作为可申资金」，与输出模板和示例表一致
 - SKILL.md workflow and README workflow / principles: directional documents go under "policy-fit text only", not as fundable items, matching the output template and example table
 - 许可证补充：未经作者事先书面许可，不得将本项目上架、收录或分发到第三方 AI 产品、Skill 商店或类似渠道；许可联系 GitHub @huaxialucaicaizi

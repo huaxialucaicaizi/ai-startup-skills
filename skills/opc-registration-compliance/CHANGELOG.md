@@ -12,6 +12,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `scripts/validate.py` now fails if any link in `references/` or `templates/` is not an official government domain (`*.gov.cn`)
 
 ### Changed
+- 主体对比表：「是否法人」由「待核实」改为摘录《民法典》第五十四条（个体工商户）、第一百零二条（个人独资企业为非法人组织）；国家市场监督管理总局网站原文，2026-11-06 核验；README 中英示例表同步补上该行
+- Entity comparison: legal-person row now cites Civil Code Art. 54 (individual business) and Art. 102 (sole proprietorship as an unincorporated organization); SAMR official text, verified 2026-11-06; README example tables updated to match
 - 主体对比表：个体工商户「责任承担」由「待核实」改为摘录《民法典》第五十六条（国家市场监督管理总局网站原文，2026-11-05 核验）；README 中英示例表同步
 - Entity comparison: individual-business liability now cites Civil Code Art. 56 (SAMR official text, verified 2026-11-05); README example tables updated to match
 - SKILL.md「可选衔接」：为第 2 步商业计划书、第 3 步政策导航补上步骤编号和仓库链接；正文中的政策导航引用同步加上链接

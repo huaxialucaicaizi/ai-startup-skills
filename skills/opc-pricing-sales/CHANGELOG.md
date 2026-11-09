@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
+- SKILL.md 开篇「只做五件事」把价格合规检查写成附加项；改为与工作流一致的六件事（算底价、定价格区间、设计套餐、写报价单、成交流程与异议处理、价格合规检查）
+- SKILL.md intro listed five tasks and treated the compliance check as an afterthought; now six tasks, matching the workflow (floor, range, packages, quote, closing & objections, price-marking check)
 - 许可证补充：未经作者事先书面许可，不得将本项目上架到第三方 AI 产品、Skill 商店或类似分发渠道；授权联系 @huaxialucaicaizi
 - License: added a clause forbidding listing this project on third-party AI products, skill stores, or similar channels without prior written permission from the author (@huaxialucaicaizi)
 - 许可证由 MIT 改为非商业许可；转载或商用须通过 GitHub 联系作者 @huaxialucaicaizi
