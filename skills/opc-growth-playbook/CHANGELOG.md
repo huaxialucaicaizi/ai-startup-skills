@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
+- 漏斗判断补充：没有历史数据或关键层级尚未记录时，最弱层写「待基线」，避免在数据不足时凭空判断
+- Funnel guidance: write "awaiting baseline" instead of guessing the weakest layer when historical or key-stage data is missing
 - templates/weekly-review.md 漏斗表补上「复购 / 转介绍」行，与 SKILL 工作流、references/growth-funnel.md 对齐（没有数据仍写「未记录」）
 - templates/weekly-review.md funnel table: added the "repeat / referral" row to match the SKILL workflow and growth-funnel.md (still write "not recorded" when there is no data)
 - SKILL.md 开篇「只做五件事」漏了合规检查；改为与工作流一致的六件事（定位确认、漏斗与指标、实验池、内容日历与脚本、合规检查、周复盘）

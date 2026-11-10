@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
+- CI 链接检查忽略偶发返回 503 的 Star History 动态图片接口，避免外部服务波动导致误报
+- CI link checking now ignores the Star History image API, whose intermittent 503 responses caused false failures
 - `references/pain-and-feasibility.md`：为「AI 产品特有判断」补上自查清单（三项风险等级、未评估按高风险且无应对、合规只引用已核实链接）
 - `references/pain-and-feasibility.md`: add a self-check for the AI-product assessment section (risk levels, unevaluated overlap treated as high risk, official-link-only compliance)
 - `references/pain-and-feasibility.md`：标识办法链接从网信办「发布说明」改为含办法全文的官方通知原文

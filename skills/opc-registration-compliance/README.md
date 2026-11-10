@@ -124,7 +124,7 @@ git clone https://github.com/huaxialucaicaizi/opc-registration-compliance.git
 1. 打算申请的 OPC 社区政策是否要求企业法人？（以政策原文为准，可用 opc-policy-navigator 查询）
 2. 能否做到公司收支全部走公司账户？
 
-> 以上为信息指引，不构成法律或财税意见，具体以主管部门最新规定为准。信息核实日期：2026-10-22。
+> 以上为信息指引，不构成法律或财税意见，具体以主管部门最新规定为准。各条款核实日期见 `references/` 中对应文件。
 
 <a id="zh-workflow"></a>
 ### 工作流
@@ -321,7 +321,7 @@ To confirm:
 1. Does the OPC community policy require a legal-person entity? (check the policy text)
 2. Can all company income and expenses go through a company account?
 
-> Information only, not legal or tax advice. Verified: 2026-10-22.
+> Information only, not legal or tax advice. See the corresponding file in `references/` for each source's verification date.
 
 <a id="en-workflow"></a>
 ### Workflow
