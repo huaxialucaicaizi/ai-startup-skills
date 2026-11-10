@@ -208,10 +208,6 @@ A：本 skill 不提供法律或财税意见，请咨询专业人士或主管部
 
 如果这个 skill 对你有帮助，欢迎点个 Star ⭐
 
-### Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=huaxialucaicaizi/opc-pricing-sales&type=Date)](https://star-history.com/#huaxialucaicaizi/opc-pricing-sales&Date)
-
 <a id="zh-license"></a>
 ### 许可
 
@@ -408,10 +404,6 @@ A: Not legal or tax advice; consult professionals.
 - GitHub: [@huaxialucaicaizi](https://github.com/huaxialucaicaizi)
 
 If this skill helps you, a Star ⭐ is appreciated.
-
-### Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=huaxialucaicaizi/opc-pricing-sales&type=Date)](https://star-history.com/#huaxialucaicaizi/opc-pricing-sales&Date)
 
 <a id="en-license"></a>
 ### License

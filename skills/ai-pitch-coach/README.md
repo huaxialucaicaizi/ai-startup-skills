@@ -322,7 +322,7 @@ Next week I pitch for a Yangpu (Shanghai) OPC community, 3 minutes. Solo AI resu
 
 1. **Pick a structure** (3 or 5 minutes), script with timing and slide numbers
 2. **Calibrate** word count to your measured pace; cut content if over time
-3. **Q&A prep** from the question bank, with answer points
+3. **Q&A prep**: use likely judge questions from existing BP review feedback first, then follow the question bank's setting priorities to reach 8–10 questions for 3 minutes or 10–15 for 5 minutes; write answer points
 4. **Mock defense**, one question at a time
 5. **Optional story modules**: validation progress, staged roadmap, local-first then regional
 6. **Rehearsal checklist**
