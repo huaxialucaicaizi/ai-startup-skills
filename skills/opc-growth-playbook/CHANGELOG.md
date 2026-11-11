@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
+- references/compliance.md：标识办法链接从网信办「发布说明」改为含办法全文的官方通知原文
+- references/compliance.md: the AI content labeling link now points to the CAC notice with the full official text, not the press release
 - 漏斗判断补充：没有历史数据或关键层级尚未记录时，最弱层写「待基线」，避免在数据不足时凭空判断
 - Funnel guidance: write "awaiting baseline" instead of guessing the weakest layer when historical or key-stage data is missing
 - templates/weekly-review.md 漏斗表补上「复购 / 转介绍」行，与 SKILL 工作流、references/growth-funnel.md 对齐（没有数据仍写「未记录」）

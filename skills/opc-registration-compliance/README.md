@@ -129,8 +129,8 @@ git clone https://github.com/huaxialucaicaizi/opc-registration-compliance.git
 <a id="zh-workflow"></a>
 ### 工作流
 
-1. **主体形式对比**：责任承担、组织机构、出资、转型，每条附条款出处
-2. **注册步骤与材料清单**：登记事项、备案事项、申请材料、办理时限、办理入口
+1. **主体形式对比**：按 references 表中维度（责任承担、是否法人、组织机构、出资、转型等）对比，每条附条款出处；不另造未收录维度
+2. **注册步骤与材料清单**：登记事项、备案事项、申请材料、办理时限、办理入口；领照后事项（刻章、开户等）标「待核实」
 3. **注册后合规日历**：年报、变更登记、歇业、财产独立、出资期限
 4. **风险提示**：一人公司财产独立，以及广告、标价、AI 服务等经营中常见规定
 
@@ -326,10 +326,10 @@ To confirm:
 <a id="en-workflow"></a>
 ### Workflow
 
-1. **Entity comparison** with legal articles
-2. **Registration checklist**: items, filings, documents, time limits, portal
+1. **Entity comparison** along the dimensions in references (liability, legal-person status, governance, capital, conversion, etc.), each with legal articles; do not invent unlisted axes
+2. **Registration checklist**: items, filings, documents, time limits, portal; post-license items (seals, bank account, etc.) marked "待核实" / verify locally
 3. **Compliance calendar**: annual report, changes, suspension, asset separation, capital deadline
-4. **Risk notes**
+4. **Risk notes**: one-shareholder asset separation, plus advertising, pricing and AI-service rules when applicable
 
 <a id="en-principles"></a>
 ### Principles

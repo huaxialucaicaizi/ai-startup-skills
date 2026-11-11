@@ -1,6 +1,6 @@
 ---
 name: opc-pricing-sales
-description: Use when a one-person company (OPC/一人公司) or solo founder selling an AI product or service needs to set prices, design packages, write a quote, or turn inquiries into paying customers (定价、套餐、报价单、私域成交). Combines cost-based (including model/API cost), competitor and value-based pricing into a price range, designs tiers, drafts quotes and a closing SOP with objection handling, and checks China price-marking rules. No invented benchmarks.
+description: Use when a one-person company (OPC/一人公司) or solo founder selling an AI product or service needs to set prices, design packages, write a quote, turn inquiries into paying customers, or check China price-marking / 明码标价 compliance (定价、套餐、报价单、私域成交、明码标价). Combines cost-based (including model/API cost), competitor and value-based pricing into a price range, designs tiers, drafts quotes and a closing SOP with objection handling, and checks China price-marking rules. No invented benchmarks.
 ---
 
 # 定价与成交 / AI Pricing & Closing
