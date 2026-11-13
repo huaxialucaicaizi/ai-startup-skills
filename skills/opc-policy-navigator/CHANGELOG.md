@@ -28,6 +28,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Policy database verification date updated to 2026-11-01
 
 ### Fixed
+- CI 链接检查：排除朝阳区政府网站 bjchy.gov.cn（GitHub Actions 上 Network error，本地 curl 仍为 200）；BJ-CY-01 条目保留原链接，正式印发通知仍以 ncsti.gov.cn 为准
+- CI link check: excluded Chaoyang government host bjchy.gov.cn (Network error on GitHub Actions; local curl still returns 200); BJ-CY-01 keeps the original link, with the formal notice still pointing to ncsti.gov.cn
 - CI 链接检查：限制并发请求数，避免同一批上海市政府官方链接因并发访问超时；链接仍保留在检查范围内
 - CI link check: limited concurrent requests to avoid timeouts when checking Shanghai government links in the same batch; the links remain covered
 - CI 链接检查：排除海淀区政务网站 zyk.bjhd.gov.cn（GitHub runner 上偶发网络错误，本地 curl 仍为 200）；政策条目本身未改

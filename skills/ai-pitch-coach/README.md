@@ -96,7 +96,7 @@ git clone https://github.com/huaxialucaicaizi/ai-pitch-coach.git
 **2. 开始使用**
 
 ```text
-用 ai-pitch-coach 帮我准备 ___ 分钟路演，场合：___（园区入驻 / OPC 社区 / 创业大赛），这是我的 BP / 项目介绍：___
+用 ai-pitch-coach 帮我准备 ___ 分钟路演，场合：___（园区入驻 / OPC 社区 / 孵化器 / 创业大赛），这是我的 BP / 项目介绍：___
 ```
 
 <a id="zh-example"></a>
@@ -291,7 +291,7 @@ Other Agent Skills-compatible tools (e.g. Cursor) can install it in their own wa
 **2. Use it**
 
 ```text
-Use ai-pitch-coach to prepare a ___-minute pitch for ___ (park / OPC community / competition). Here is my BP or project summary: ___
+Use ai-pitch-coach to prepare a ___-minute pitch for ___ (park / OPC community / incubator / competition). Here is my BP or project summary: ___
 ```
 
 <a id="en-example"></a>

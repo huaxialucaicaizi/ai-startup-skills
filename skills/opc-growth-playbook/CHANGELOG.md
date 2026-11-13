@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
+- SKILL.md 触发用 description：与开篇「六件事」对齐，补上定位确认与合规检查（广告 / AI 生成内容标识），不再只写成附带「flags ad-labeling rules」
+- SKILL.md trigger description: aligned with the six tasks in the intro — adds positioning and a compliance check (ad / AI-content labeling), instead of only an afterthought "flags ad-labeling rules"
 - references/compliance.md：标识办法链接从网信办「发布说明」改为含办法全文的官方通知原文
 - references/compliance.md: the AI content labeling link now points to the CAC notice with the full official text, not the press release
 - 漏斗判断补充：没有历史数据或关键层级尚未记录时，最弱层写「待基线」，避免在数据不足时凭空判断

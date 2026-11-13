@@ -136,7 +136,7 @@ git clone https://github.com/huaxialucaicaizi/ai-mvp-validation.git
 2. **痛点 + AI 产品判断**：大模型原生功能覆盖风险、模型 / 推理成本、数据与合规
 3. **一人能否做**：时间、钱（含广告费和模型调用费）、技能、AI 工具分工
 4. **Meta 广告投放验证**：多卖点 × 多受众 A/B 测试，记录 CTR、CPC、落地页转化率、单线索成本、付费意向、实际预付
-5. **结论**：组合公式（给谁 / 解决什么 / 卖点 / 付多少钱）+ 继续 / 调整 / 放弃
+5. **结论**：组合公式（给谁 / 解决什么 / 卖点 / 付多少钱）+ 固定句式「已验证的是 ___，下一步要验证的是 ___」+ 继续 / 调整 / 放弃
 
 辅助方法：小红书笔记测反应、预售、人工模拟交付。
 
@@ -344,7 +344,7 @@ I interviewed 6 sellers and ran Meta ads for 10 days with 3 selling-point versio
 2. **Pain + AI product assessment**: native-LLM overlap risk, model / inference cost, data and compliance
 3. **Can one person do it**: time, money (incl. ad spend and model API costs), skills, division of work with AI tools
 4. **Meta ad validation**: multi-selling-point × multi-audience A/B tests, tracking CTR, CPC, landing page conversion, cost per lead, payment intent, actual prepayments
-5. **Conclusion**: combination formula (for whom / solving what / selling point / price) + continue / adjust / stop
+5. **Conclusion**: combination formula (for whom / solving what / selling point / price) + fixed sentence "Validated ___; next to validate ___." + continue / adjust / stop
 
 Supplementary methods: Xiaohongshu posts, pre-sales, manual (concierge) delivery.
 

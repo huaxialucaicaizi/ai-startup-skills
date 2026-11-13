@@ -22,6 +22,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - README intro "next step" link to step 7 now uses the bold repo name, matching the toolkit table
 
 ### Fixed
+- README FAQ「可以用划线价吗」原先写「附原文链接」却未给出链接；现补上《明码标价和禁止价格欺诈规定》官方原文，并指向 `references/price-compliance.md`；英文 FAQ 同步
+- README FAQ on strikethrough prices claimed an official-text link but had none; now links the official China price-marking rules and `references/price-compliance.md`; English FAQ aligned
 - README 移除无法渲染（HTTP 403）的 Star History 图表；仓库星标仍可通过页首 GitHub stars 徽章查看
 - README: removed the Star History chart that failed to render (HTTP 403); repository stars remain available through the GitHub stars badge
 - 输出模板「价格合规检查」原先只有 4 项，漏了服务标价、折扣基准、网页一致；现与 `references/price-compliance.md` 的 7 项及官方依据对齐

@@ -12,6 +12,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `scripts/validate.py` now fails if any link in `references/` or `templates/` is not an official government domain (`*.gov.cn`)
 
 ### Changed
+- SKILL.md frontmatter `description` 补齐注册与合规常用中文触发词（注册公司、营业执照、经营范围、工位注册、财产混同、歇业、出资期限），便于 Agent 路由命中；仍控制在 500 字符内
+- SKILL.md frontmatter `description` now includes common Chinese trigger phrases for registration and compliance (注册公司、营业执照、经营范围、工位注册、财产混同、歇业、出资期限) so agents route more reliably; still under 500 characters
 - SKILL.md 主体对比维度与 `references/entity-comparison.md` 对齐（去掉未收录的「适合场景」），并明确领照后事项须标「待核实」；`templates/registration-plan.md` 补全对比表、登记事项、领照后与合规日历占位行；README 中英工作流说明同步
 - SKILL.md entity-comparison dimensions now match `references/entity-comparison.md` (dropped the unlisted "suitable scenarios" axis) and post-license items must stay "待核实"; `templates/registration-plan.md` fills in placeholder rows for comparison, registration items, post-license follow-ups, and the compliance calendar; README ZH/EN workflow notes aligned
 - 输出免责声明不再使用与新近核验条款矛盾的固定核实日期，改为提示查阅 `references/` 中各来源的逐条核实日期；README 示例与输出模板同步
