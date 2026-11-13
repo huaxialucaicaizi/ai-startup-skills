@@ -1,6 +1,6 @@
 ---
 name: ai-pitch-coach
-description: Use when a founder needs to prepare a live roadshow or defense (路演、答辩) for a government park, OPC community, incubator admission or startup competition (创业大赛) in China. Produces 3- and 5-minute speech scripts with time allocation, and rehearses categorized judge Q&A typical of government and competition panels. Not for VC fundraising decks.
+description: Use when a founder needs to prepare a live roadshow or defense (路演、答辩、路演稿、逐字稿、评委问答、模拟答辩) for a China government park (园区入驻), OPC community (OPC社区), incubator (孵化器), startup competition (创业大赛) or government project defense (政府项目答辩). Produces 3- and 5-minute speech scripts with time allocation, and rehearses categorized judge Q&A. Not for VC fundraising decks.
 ---
 
 # 园区路演教练 / Roadshow Pitch Coach
@@ -11,7 +11,7 @@ description: Use when a founder needs to prepare a live roadshow or defense (路
 
 - BP 或路演 PPT 文字（没有的话，可先用任何 BP 工具生成，如 [business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill)；也可以只提供口头介绍，缺的内容写"待补充"）
 - 路演时长：3 / 5 分钟（主办方规定其他时长时，按比例调整 5 分钟结构）
-- 场合：园区入驻评审 / OPC 社区 / 创业大赛（初赛、复赛、决赛）/ 政府项目答辩
+- 场合：园区入驻评审 / OPC 社区 / 孵化器面试 / 创业大赛（初赛、复赛、决赛）/ 政府项目答辩
 - 主办方公布的评分标准（有的话）
 - 可选：已有的 BP 评审意见、政策匹配结果、验证结论（有就用，没有不影响）
 

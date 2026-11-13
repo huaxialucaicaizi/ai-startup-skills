@@ -1,6 +1,6 @@
 ---
 name: opc-registration-compliance
-description: Use when a solo founder in mainland China asks which business entity to register (个体工商户、个人独资企业、一人有限公司), how registration works, or what ongoing compliance a one-person company must keep (年报、变更登记、财产独立). Compares entity types by liability and governance using official law texts, gives a registration checklist and a post-registration compliance calendar, with official links only. Information guidance, not legal or tax advice.
+description: Use when a solo founder in mainland China asks which business entity to register (个体工商户、个人独资企业、一人有限公司), how registration works (注册公司、营业执照、经营范围、工位注册), or what ongoing compliance a one-person company must keep (年报、变更登记、财产独立、财产混同、歇业、出资期限). Compares entity types by liability and governance using official law texts, gives a registration checklist and a post-registration compliance calendar, with official links only. Information guidance, not legal or tax advice.
 ---
 
 # 一人公司注册与合规 / OPC Company Registration (China)

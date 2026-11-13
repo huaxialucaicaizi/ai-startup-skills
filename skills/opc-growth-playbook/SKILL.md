@@ -1,6 +1,6 @@
 ---
 name: opc-growth-playbook
-description: Use when a one-person company (OPC/一人公司) or solo founder in China needs a cold-start growth plan on Xiaohongshu, Douyin or WeChat Channels (小红书、抖音、视频号) for an AI product or service. Builds a growth funnel with defined metrics, a prioritized experiment pool, a content calendar and short-video script outlines, plus a weekly review. Uses only the user's own data, no invented benchmarks, and flags ad-labeling rules.
+description: Use when a one-person company (OPC/一人公司) or solo founder in China needs a cold-start growth plan on Xiaohongshu, Douyin or WeChat Channels (小红书、抖音、视频号) for an AI product or service. Confirms positioning; builds a growth funnel with metrics, a prioritized experiment pool, a content calendar and short-video scripts; runs a compliance check (ad and AI-content labeling); and a weekly review. Uses only the user's own data, no invented benchmarks.
 ---
 
 # 一人公司增长获客 / OPC Growth Playbook

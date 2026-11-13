@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
+- README 工作流第 5 步：补上固定结论句式「已验证的是 ___，下一步要验证的是 ___」，与 `SKILL.md` / 验证记录表一致（中英文同步）
+- README workflow step 5: add the fixed conclusion sentence "Validated ___; next to validate ___." so it matches SKILL.md and the validation log (CN + EN)
 - `references/validation-log.md`：结论段补上「组合公式」表和固定结论句式，与 `SKILL.md` 工作流第 5 步对齐，避免只写继续/调整/放弃而跳过证据结构
 - `references/validation-log.md`: conclusion section now includes the combination-formula table and fixed conclusion sentence, matching SKILL.md step 5
 - CI 链接检查忽略偶发返回 503 的 Star History 动态图片接口，避免外部服务波动导致误报

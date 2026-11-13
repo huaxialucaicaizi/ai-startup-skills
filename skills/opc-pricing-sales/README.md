@@ -184,7 +184,7 @@ A：只能在你提供成本、竞品和客户价值后给出区间；缺数据�
 A：由你自己定，本 skill 只标"建议值，可自行调整"，不提供行业毛利率。
 
 **Q：可以用划线价吗？**<br>
-A：可以，但被比较价格要真实准确，按明码标价规定检查（附原文链接）。
+A：可以，但被比较价格要真实准确，按《明码标价和禁止价格欺诈规定》检查（[官方原文](https://www.gov.cn/zhengce/2022-04/26/content_5728113.htm)；本仓库清单见 `references/price-compliance.md`）。
 
 **Q：订阅制怎么算模型成本？**<br>
 A：按普通用户和重度用户的调用量各算一遍，确认重度用户不亏钱。
@@ -381,7 +381,7 @@ A: It gives a range once you provide costs, competitors and customer value; miss
 A: You decide; no industry margins are provided.
 
 **Q: Strikethrough prices?**<br>
-A: Allowed if the compared price is real; checked against the price-marking rules.
+A: Allowed if the compared price is real; checked against the [*Provisions on Clearly Marked Prices and Prohibition of Price Fraud*](https://www.gov.cn/zhengce/2022-04/26/content_5728113.htm) (official text); see `references/price-compliance.md` for this repo's checklist.
 
 **Q: Model cost for subscriptions?**<br>
 A: Calculate for typical and heavy users.
