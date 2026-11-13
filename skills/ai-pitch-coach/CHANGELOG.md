@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
+- README 中文工作流补齐问答准备规则：优先使用已有 BP 评审追问，再按题库场合优先级补足 3 分钟版 8–10 题或 5 分钟版 10–15 题（与英文工作流、SKILL.md 对齐）
+- README Chinese workflow now prioritizes questions from existing BP review feedback, then follows the question bank's setting priorities to reach 8–10 questions for 3 minutes or 10–15 for 5 minutes (aligned with the English workflow and SKILL.md)
 - README 英文工作流补齐问答准备规则：优先使用已有 BP 评审追问，再按场合补足 3 分钟版 8–10 题或 5 分钟版 10–15 题
 - README English workflow now prioritizes questions from existing BP review feedback, then follows setting priorities to reach 8–10 questions for 3 minutes or 10–15 for 5 minutes
 - 评委题库补上题号格式（A1、B7）和按场合优先类别；SKILL.md 第 3 步改为按该文首选题，与 README 示例对齐

@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
+- SKILL.md 触发描述与 `agents/openai.yaml`：在「Use when」和中文关键词中补上明码标价 / 价格合规，并同步 short_description 英文摘要与 default_prompt，与六件事主流程一致
+- SKILL.md trigger description and `agents/openai.yaml`: add China price-marking / 明码标价 to the Use-when clause and Chinese keywords; align the English short_description and default_prompt with the six-task workflow
 - SKILL.md 开篇「只做五件事」把价格合规检查写成附加项；改为与工作流一致的六件事（算底价、定价格区间、设计套餐、写报价单、成交流程与异议处理、价格合规检查）
 - SKILL.md intro listed five tasks and treated the compliance check as an afterthought; now six tasks, matching the workflow (floor, range, packages, quote, closing & objections, price-marking check)
 - 许可证补充：未经作者事先书面许可，不得将本项目上架到第三方 AI 产品、Skill 商店或类似分发渠道；授权联系 @huaxialucaicaizi
