@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
+- README 中英文工作流第 2 步补齐计时校准规则：未计时时标「字数待计时校准」/ word count TBD，超时删内容、不要压缩语速（与 SKILL.md 对齐）
+- README bilingual workflow step 2 now matches SKILL.md on timing calibration: mark word count TBD when untimed, cut content if over time, and do not speak faster
 - SKILL.md 触发描述补齐中文关键词（路演稿、逐字稿、评委问答、模拟答辩、园区入驻、OPC社区、孵化器、政府项目答辩）；输入场合、题库场合优先级、README 快速开始与 agents/openai.yaml 同步加上「孵化器」
 - SKILL.md description: add Chinese trigger phrases (script, verbatim draft, judge Q&A, mock defense, park admission, OPC community, incubator, government project defense); add incubator to input settings, question-bank occasion priorities, README quick start, and agents/openai.yaml
 - README 中文工作流补齐问答准备规则：优先使用已有 BP 评审追问，再按题库场合优先级补足 3 分钟版 8–10 题或 5 分钟版 10–15 题（与英文工作流、SKILL.md 对齐）

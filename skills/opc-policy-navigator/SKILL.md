@@ -1,6 +1,6 @@
 ---
 name: opc-policy-navigator
-description: Use when a one-person company (OPC/一人公司) or early-stage founder in China asks which government policies, subsidies, vouchers, free office space or talent support they can apply for (政策申报、补贴、算力券、OPC社区入驻), given city, industry and stage. Matches national policies first, then local ones; outputs policies with official links, a materials checklist and an application outline. Covers national, Beijing, Shanghai, Guangzhou, Shenzhen, Hangzhou; says so honestly when a city is not covered.
+description: Use when a one-person company (OPC/一人公司) or early-stage founder in China asks which government policies, subsidies, vouchers, free office space or talent support they can apply for (政策申报、补贴、算力券、模型券、税费优惠、OPC社区入驻), given city, industry and stage. Matches national policies first, then local ones; outputs policies with official links, a materials checklist and an application outline. Covers national, Beijing, Shanghai, Guangzhou, Shenzhen, Hangzhou; says so honestly when a city is not covered.
 ---
 
 # OPC 政策导航 / OPC Policy Navigator

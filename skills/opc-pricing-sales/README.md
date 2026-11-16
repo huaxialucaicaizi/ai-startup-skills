@@ -384,7 +384,7 @@ A: You decide; no industry margins are provided.
 A: Allowed if the compared price is real; checked against the [*Provisions on Clearly Marked Prices and Prohibition of Price Fraud*](https://www.gov.cn/zhengce/2022-04/26/content_5728113.htm) (official text); see `references/price-compliance.md` for this repo's checklist.
 
 **Q: Model cost for subscriptions?**<br>
-A: Calculate for typical and heavy users.
+A: Calculate for typical and heavy users; make sure heavy users still don't lose money.
 
 **Q: Contracts and invoices?**<br>
 A: Not legal or tax advice; consult professionals.

@@ -22,6 +22,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - README intro "next step" link to step 7 now uses the bold repo name, matching the toolkit table
 
 ### Fixed
+- README 英文 FAQ「订阅制模型成本」原先只写算普通 / 重度用户，漏了中文版与 `references/pricing-methods.md` 已有的「确认重度用户不亏钱」；现补齐
+- README English FAQ on subscription model cost only said to calculate for typical and heavy users; now also says to confirm heavy users still don't lose money, matching the Chinese FAQ and `references/pricing-methods.md`
 - README FAQ「可以用划线价吗」原先写「附原文链接」却未给出链接；现补上《明码标价和禁止价格欺诈规定》官方原文，并指向 `references/price-compliance.md`；英文 FAQ 同步
 - README FAQ on strikethrough prices claimed an official-text link but had none; now links the official China price-marking rules and `references/price-compliance.md`; English FAQ aligned
 - README 移除无法渲染（HTTP 403）的 Star History 图表；仓库星标仍可通过页首 GitHub stars 徽章查看
