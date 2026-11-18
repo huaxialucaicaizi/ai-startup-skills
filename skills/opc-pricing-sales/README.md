@@ -324,17 +324,17 @@ AI-assisted contract pre-review for small businesses (AI first, then my manual c
 <a id="en-workflow"></a>
 ### Workflow
 
-1. **Price floor** from real costs and target margin
-2. **Price range**: competitors (sourced) + customer value
-3. **Packages**: 2–3 tiers with inclusions, exclusions and timing
-4. **Quote**
-5. **Closing SOP & objections**
-6. **Price-marking compliance check**
+1. **Price floor**: model/API + tools + outsourcing + time cost, then floor from target margin
+2. **Price range**: competitors (sourced) + value-based (customer's own estimate)
+3. **Packages**: 2–3 tiers with inclusions / exclusions / delivery timing
+4. **Quote**: scope, deliverables, price, payment, refunds, validity
+5. **Closing SOP & objections**: lead → needs → proposal → quote → objections → close → deliver → follow-up
+6. **Price-marking compliance check**: clear price marking, strikethrough prices, promotions
 
 <a id="en-principles"></a>
 ### Principles
 
-- **No invented competitor prices, margins or conversion rates**
+- **No invented competitor prices, margins or conversion rates**; mark missing sources as "TBD"
 - **Model prices from official pricing pages with dates**
 - **No fake list prices, deadlines or scarcity**
 - **Only promise what you can deliver**; not legal or tax advice

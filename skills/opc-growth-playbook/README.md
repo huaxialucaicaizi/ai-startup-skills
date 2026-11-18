@@ -128,7 +128,7 @@ git clone https://github.com/huaxialucaicaizi/opc-growth-playbook.git
 ### 工作流
 
 1. **定位确认**：一句话定位、目标用户、3 个内容支柱、人设、转化路径
-2. **漏斗与指标**：曝光 → 互动 → 关注 / 留资 → 咨询 → 付费 → 复购，找出最弱的一层
+2. **漏斗与指标**：曝光 → 互动 → 关注 / 留资 → 咨询 → 付费 → 复购 / 转介绍，找出最弱的一层
 3. **实验池**：假设 → 做法 → 指标 → 判断标准 → 周期，ICE 排序
 4. **内容日历与口播脚本**：2–4 周排期；脚本结构"钩子 → 痛点 → 方案 → 证据 → 行动引导"
 5. **合规检查**：广告标识、AI 生成内容标识、如实宣传
@@ -330,7 +330,7 @@ AI resume tool for new graduates. Xiaohongshu, 6 hours/week, no on-camera, conve
 ### Workflow
 
 1. **Positioning**
-2. **Funnel & metrics**: reach → engagement → follow / lead → inquiry → paid → repeat; find the weakest layer
+2. **Funnel & metrics**: reach → engagement → follow / lead → inquiry → paid → repeat / referral; find the weakest layer
 3. **Experiment pool** with ICE
 4. **Content calendar & scripts**: hook → pain → solution → proof → call to action
 5. **Compliance check**

@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
+- README 头图标语、对比表、融资路演 FAQ，以及题库标题补上「孵化器 / incubators」，与正文、快速开始和 #15 已覆盖处一致
+- README hero tagline, comparison table, VC-pitch FAQ, and the question-bank title now include incubators, matching the body, quick start, and coverage added in #15
 - README 中英文工作流第 2 步补齐计时校准规则：未计时时标「字数待计时校准」/ word count TBD，超时删内容、不要压缩语速（与 SKILL.md 对齐）
 - README bilingual workflow step 2 now matches SKILL.md on timing calibration: mark word count TBD when untimed, cut content if over time, and do not speak faster
 - SKILL.md 触发描述补齐中文关键词（路演稿、逐字稿、评委问答、模拟答辩、园区入驻、OPC社区、孵化器、政府项目答辩）；输入场合、题库场合优先级、README 快速开始与 agents/openai.yaml 同步加上「孵化器」

@@ -318,7 +318,7 @@ I'm in Guangzhou doing AI design outsourcing alone, mostly for companies. May ap
 | Tax | Per tax authority | Per tax authority |
 
 To confirm:
-1. Does the OPC community policy require a legal-person entity? (check the policy text)
+1. Does the OPC community policy require a legal-person entity? (check the policy text; you can query with opc-policy-navigator)
 2. Can all company income and expenses go through a company account?
 
 > Information only, not legal or tax advice. See the corresponding file in `references/` for each source's verification date.

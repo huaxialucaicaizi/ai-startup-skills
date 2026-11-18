@@ -12,6 +12,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `scripts/validate.py` now fails if any link in `references/` or `templates/` is not an official government domain (`*.gov.cn`)
 
 ### Changed
+- README 英文示例「To confirm」补上与中文版一致的 opc-policy-navigator 查询提示（此前仅 FAQ 对齐过）
+- README English example "To confirm" now mentions opc-policy-navigator like the Chinese version (FAQ was already aligned)
 - 合规日历模板（`templates/registration-plan.md` 与 `references/post-registration-compliance.md`）补上「拟歇业时 → 歇业前备案」占位行，与 SKILL/README 工作流中的歇业事项对齐；时限摘自登记条例第三十条已核实原文
 - Compliance calendar templates (`templates/registration-plan.md` and `references/post-registration-compliance.md`) now include a "suspension filing when applicable" row, matching the SKILL/README workflow; time limit from Registration Regulation Art. 30 (already verified)
 - SKILL.md frontmatter `description` 补齐注册与合规常用中文触发词（注册公司、营业执照、经营范围、工位注册、财产混同、歇业、出资期限），便于 Agent 路由命中；仍控制在 500 字符内
