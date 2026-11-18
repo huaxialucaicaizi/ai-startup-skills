@@ -12,6 +12,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 2026-11-01 monthly review: promoted national CN-06, Lingang SH-LG-01 and Chaoyang BJ-CY-01 from "checked but not included" to formal entries; added BJ-01 "OPC special service voucher" application path
 
 ### Changed
+- SKILL.md 触发描述：中文触发词补上「模型券」「税费优惠」，与 README「适合」里常见诉求一致（仍 ≤500 字）
+- SKILL.md description: add Chinese trigger terms 模型券 and 税费优惠 to match common asks in the README "Good fit" section (still ≤500 chars)
 - SKILL.md / README / 输出模板：澄清「只用于文案政策契合」的判定——除方向性文件外，不含资金条款、以登记监管便利为主、以及适用对象不是 OPC 企业本人（如社区运营方）的条目也不进三档；模板该栏改为表格；顺带统一深圳 / 广东行的 `references/` 路径前缀，并补齐英文工作流的材料三种状态
 - SKILL.md / README / output template: clarify "policy-fit text only" — besides directional docs, no-funding / registration-convenience items and policies not aimed at the OPC company itself (e.g. community operators) stay out of the three tiers; that template section is now a table; also unify `references/` path prefixes for Shenzhen / Guangdong rows and complete the English workflow materials states
 - 输出模板与 SKILL.md 工作流对齐：需确认条件 / 暂不适用改为表格并补上文号和官方链接；材料清单补上「用户自述、待提供证明」
@@ -28,6 +30,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Policy database verification date updated to 2026-11-01
 
 ### Fixed
+- CI 链接检查：排除北京国际科技创新中心网 ncsti.gov.cn（GitHub Actions / 自动化请求常 403，本地浏览器式 GET 仍能拿到页面正文）；BJ-CY-01 条目保留原链接
+- CI link check: excluded NCSTI host ncsti.gov.cn (automated requests often get 403 on GitHub Actions; a browser-like local GET still returns the page body); BJ-CY-01 keeps the original links
 - CI 链接检查：排除朝阳区政府网站 bjchy.gov.cn（GitHub Actions 上 Network error，本地 curl 仍为 200）；BJ-CY-01 条目保留原链接，正式印发通知仍以 ncsti.gov.cn 为准
 - CI link check: excluded Chaoyang government host bjchy.gov.cn (Network error on GitHub Actions; local curl still returns 200); BJ-CY-01 keeps the original link, with the formal notice still pointing to ncsti.gov.cn
 - CI 链接检查：限制并发请求数，避免同一批上海市政府官方链接因并发访问超时；链接仍保留在检查范围内

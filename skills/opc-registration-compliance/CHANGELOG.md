@@ -12,6 +12,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `scripts/validate.py` now fails if any link in `references/` or `templates/` is not an official government domain (`*.gov.cn`)
 
 ### Changed
+- 合规日历模板（`templates/registration-plan.md` 与 `references/post-registration-compliance.md`）补上「拟歇业时 → 歇业前备案」占位行，与 SKILL/README 工作流中的歇业事项对齐；时限摘自登记条例第三十条已核实原文
+- Compliance calendar templates (`templates/registration-plan.md` and `references/post-registration-compliance.md`) now include a "suspension filing when applicable" row, matching the SKILL/README workflow; time limit from Registration Regulation Art. 30 (already verified)
 - SKILL.md frontmatter `description` 补齐注册与合规常用中文触发词（注册公司、营业执照、经营范围、工位注册、财产混同、歇业、出资期限），便于 Agent 路由命中；仍控制在 500 字符内
 - SKILL.md frontmatter `description` now includes common Chinese trigger phrases for registration and compliance (注册公司、营业执照、经营范围、工位注册、财产混同、歇业、出资期限) so agents route more reliably; still under 500 characters
 - SKILL.md 主体对比维度与 `references/entity-comparison.md` 对齐（去掉未收录的「适合场景」），并明确领照后事项须标「待核实」；`templates/registration-plan.md` 补全对比表、登记事项、领照后与合规日历占位行；README 中英工作流说明同步

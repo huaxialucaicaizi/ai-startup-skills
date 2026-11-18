@@ -126,7 +126,7 @@ git clone https://github.com/huaxialucaicaizi/ai-pitch-coach.git
 ### 工作流
 
 1. **选结构**：3 分钟或 5 分钟，生成逐字稿，标注每段时间和 PPT 页
-2. **计时校准**：按你的实测语速估算字数，超时就删内容
+2. **计时校准**：按你的实测语速估算字数；未计时时在讲稿中标「字数待计时校准」。超时就删内容，不要压缩语速
 3. **问答准备**：优先使用已有 BP 评审意见中的「评委可能追问」，再按题库文首的场合优先级补足到 3 分钟版 8–10 题、5 分钟版 10–15 题，写回答要点
 4. **模拟答辩**：一次一题，点评是否答到点、是否超时、是否有无法核实的说法
 5. **叙事模块（可选）**：验证进度页、分阶段路线页、先本地验证→区域复制
@@ -321,7 +321,7 @@ Next week I pitch for a Yangpu (Shanghai) OPC community, 3 minutes. Solo AI resu
 ### Workflow
 
 1. **Pick a structure** (3 or 5 minutes), script with timing and slide numbers
-2. **Calibrate** word count to your measured pace; cut content if over time
+2. **Calibrate** word count to your measured pace; if you haven't timed a sample yet, mark the script "word count TBD pending timing calibration". Cut content if over time — don't speak faster
 3. **Q&A prep**: use likely judge questions from existing BP review feedback first, then follow the question bank's setting priorities to reach 8–10 questions for 3 minutes or 10–15 for 5 minutes; write answer points
 4. **Mock defense**, one question at a time
 5. **Optional story modules**: validation progress, staged roadmap, local-first then regional
