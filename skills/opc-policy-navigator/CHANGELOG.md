@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+- SKILL.md / 输出模板 / README FAQ：核实日期改为按各政策库文件头标注填写（勿写死为 2026-11-01）；并注明深圳 / 杭州库当前为 2026-10-22
+- SKILL.md / output template / README FAQ: verification dates must follow each policy-db file header (do not hardcode 2026-11-01); note Shenzhen / Hangzhou DBs are currently 2026-10-22
+
 ### Added
 - 2026-11-01 月度复核：国家级 CN-06（《关于健全创业支持体系提升创业质量的意见》）、上海临港 SH-LG-01、北京朝阳 BJ-CY-01 由「已核查但未收录」升为正式条目；补上 BJ-01「OPC 专项服务券」申报入口
 - 2026-11-01 monthly review: promoted national CN-06, Lingang SH-LG-01 and Chaoyang BJ-CY-01 from "checked but not included" to formal entries; added BJ-01 "OPC special service voucher" application path

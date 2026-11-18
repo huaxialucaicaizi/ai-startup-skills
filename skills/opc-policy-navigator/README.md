@@ -118,7 +118,7 @@ git clone https://github.com/huaxialucaicaizi/opc-policy-navigator.git
 | 需确认条件 | 小微企业和个体工商户税费政策（国家级） | 以公告原文为准 | 注册后按主体类型和纳税情况确认 |
 | 只用于文案"政策契合" | 上海市 2026 年度 OPC 社区申报通知 | 市级 OPC 定义：以人工智能驱动经营活动、员工 10 人及以下 | 面向社区运营方，不是对企业的直接资助 |
 
-> 以上信息以主管部门最新政策和申报通知为准。信息核实日期：2026-11-01。
+> 以上信息以主管部门最新政策和申报通知为准。各条核实日期见政策库文件标注（本虚构示例涉及上海 / 国家级库，均为 2026-11-01）。
 
 <a id="zh-workflow"></a>
 ### 工作流
@@ -175,7 +175,7 @@ scripts/validate.py
 ### 常见问题
 
 **Q：政策库多久更新？**<br>
-A：政策库标注了信息核实日期（当前为 2026-11-01）。政策会调整，使用前请到官方链接确认最新版本。
+A：每个政策库文件头都标注了信息核实日期（当前：国家级 / 北京 / 上海 / 广州为 2026-11-01；深圳 / 杭州为 2026-10-22）。输出时按该文件标注填写，不要统一成同一个日期。政策会调整，使用前请到官方链接确认最新版本。
 
 **Q：我的城市没有收录怎么办？**<br>
 A：skill 会如实告知，只给国家级结果，并给出中国政府网政策文件库、国家政务服务平台等官方查询入口。
@@ -316,7 +316,7 @@ I'm in Yangpu, Shanghai, building an AI resume tool alone, not yet registered, p
 | Needs confirmation | National small-business tax relief | Per the official announcement | Confirm after registration, by entity type |
 | For "policy fit" text only | Shanghai 2026 OPC community notice | City-level OPC definition: AI-driven, 10 or fewer employees | Targets community operators, not direct funding |
 
-> Subject to the latest official policies and notices. Verified: 2026-11-01.
+> Subject to the latest official policies and notices. Verification dates follow the policy-db file headers (this fictional excerpt uses Shanghai / national DBs, both 2026-11-01).
 
 <a id="en-workflow"></a>
 ### Workflow
@@ -373,7 +373,7 @@ scripts/validate.py
 ### FAQ
 
 **Q: How current is the database?**<br>
-A: Each file has a verification date (currently 2026-11-01). Always check the official link for the latest version.
+A: Each policy-db file header has its own verification date (currently: national / Beijing / Shanghai / Guangzhou = 2026-11-01; Shenzhen / Hangzhou = 2026-10-22). Use that file's date in the output — do not hardcode one global date. Always check the official link for the latest version.
 
 **Q: My city is not covered?**<br>
 A: You get national results plus official search portals; no local policies are made up.

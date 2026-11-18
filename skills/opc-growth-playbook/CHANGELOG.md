@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
+- README 工作流漏斗补上「复购 / 转介绍」（英文 repeat / referral），与 SKILL.md、growth-funnel.md 对齐
+- README workflow funnel: added "repeat / referral" to match SKILL.md and growth-funnel.md
 - references/positioning-check.md 转化路径补上「小程序」，与 SKILL.md 输入项一致
 - references/positioning-check.md: conversion path now includes mini programs, matching the SKILL.md inputs
 - SKILL.md 触发用 description：与开篇「六件事」对齐，补上定位确认与合规检查（广告 / AI 生成内容标识），不再只写成附带「flags ad-labeling rules」

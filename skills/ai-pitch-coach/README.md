@@ -4,8 +4,8 @@
 
 # Roadshow Pitch Coach · 园区路演教练 Skill
 
-**为政府园区、OPC 社区和创业大赛准备 3 / 5 分钟路演与答辩，不夸大、不编数据。**<br>
-Prepare 3- and 5-minute pitches and judge Q&A for China government parks, OPC communities and startup competitions.
+**为政府园区、OPC 社区、孵化器和创业大赛准备 3 / 5 分钟路演与答辩，不夸大、不编数据。**<br>
+Prepare 3- and 5-minute pitches and judge Q&A for China government parks, OPC communities, incubators and startup competitions.
 
 [![CI](https://github.com/huaxialucaicaizi/ai-pitch-coach/actions/workflows/ci.yml/badge.svg)](https://github.com/huaxialucaicaizi/ai-pitch-coach/actions/workflows/ci.yml)
 [![Non-Commercial / 非商业](https://img.shields.io/badge/License-Non--Commercial%20%2F%20非商业-blue.svg)](./LICENSE)
@@ -57,7 +57,7 @@ Prepare 3- and 5-minute pitches and judge Q&A for China government parks, OPC co
 
 | 直接问 AI | 用 ai-pitch-coach |
 |---|---|
-| 给一份通用的融资路演结构 | 针对园区 / OPC 社区 / 大赛评委的 3 / 5 分钟结构 |
+| 给一份通用的融资路演结构 | 针对园区 / OPC 社区 / 孵化器 / 大赛评委的 3 / 5 分钟结构 |
 | 讲稿里容易出现编出来的数字和客户 | 数字、客户、奖项只能来自你的材料，没有就写"待补充" |
 | 不会模拟评委追问 | 从分类题库挑题，一次问一题并点评 |
 | 回避短板 | 短板按"承认 + 已有应对 + 下一步计划"诚实回答 |
@@ -181,7 +181,7 @@ A：可以，先口头介绍项目，缺的内容会标"待补充"。有 BP 效�
 A：不是，是常见提问方向的归纳，不代表某个具体评审的真实题目。
 
 **Q：可以用于融资路演吗？**<br>
-A：可以参考，但本 skill 的结构和题库是按政府园区、OPC 社区、大赛设计的。
+A：可以参考，但本 skill 的结构和题库是按政府园区、OPC 社区、孵化器、大赛设计的。
 
 **Q：讲稿里的政策从哪来？**<br>
 A：只用你提供的、带官方链接的政策原文；可以先用 [**OPC Policy Navigator · 一人公司政策导航**](https://github.com/huaxialucaicaizi/opc-policy-navigator) 查询。
@@ -252,7 +252,7 @@ An Agent Skill for live pitches and defenses at **China government parks, OPC co
 
 | Just asking an AI | Using ai-pitch-coach |
 |---|---|
-| Generic VC pitch structure | 3/5-minute structures for park, OPC and competition judges |
+| Generic VC pitch structure | 3/5-minute structures for park, OPC, incubator and competition judges |
 | Made-up numbers and customers | Numbers, customers and awards come only from your materials; otherwise "TBD" |
 | No mock Q&A | Picks questions from a categorized bank, one at a time, with feedback |
 | Dodges weak points | Honest answers: admit + current mitigation + next step |
@@ -376,7 +376,7 @@ A: Describe your project; missing parts are marked "TBD".
 A: No, they summarize common question directions.
 
 **Q: Usable for VC pitches?**<br>
-A: As a reference; the structure targets parks, OPC communities and competitions.
+A: As a reference; the structure targets parks, OPC communities, incubators and competitions.
 
 **Q: Where do policy statements come from?**<br>
 A: Only official policy texts you provide, e.g. found via [**OPC Policy Navigator**](https://github.com/huaxialucaicaizi/opc-policy-navigator).

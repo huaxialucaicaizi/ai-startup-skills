@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
+- README 英文「Workflow」与「Principles」与中文对齐：工作流补上成本构成、报价字段、成交流程步骤与合规检查要点；原则补上缺来源标 "TBD"
+- README English Workflow and Principles aligned with Chinese: workflow now lists cost components, quote fields, closing steps and compliance checks; principles mark missing sources as "TBD"
 - SKILL.md 触发描述与 `agents/openai.yaml`：在「Use when」和中文关键词中补上明码标价 / 价格合规，并同步 short_description 英文摘要与 default_prompt，与六件事主流程一致
 - SKILL.md trigger description and `agents/openai.yaml`: add China price-marking / 明码标价 to the Use-when clause and Chinese keywords; align the English short_description and default_prompt with the six-task workflow
 - SKILL.md 开篇「只做五件事」把价格合规检查写成附加项；改为与工作流一致的六件事（算底价、定价格区间、设计套餐、写报价单、成交流程与异议处理、价格合规检查）
